@@ -1,0 +1,41 @@
+{
+    "Explanation": [
+        "The only thing you need to know is text in a new line and separated with ',' is the same as double space was before the difference is it will be custom space now",
+        "And its exotic perk name not exotics armor name",
+        "For simple next line use \n as berore and don't leave spaces before or after \n"
+    ],
+    "Vanishing Step": [
+        "Gain Invisibility on Powered Arc, Solar, and Void Melee Kill. (Longer on Finishers)\nHeals for X on Powered Melee Kill. (Stronger on Finishers)",
+        "Invisibility Duration\nMinor = 6 seconds (10)\nElite = 9 seconds (13)\nMiniboss = 12.5 seconds (13)\nBoss = 13 seconds (13)",
+        "Finishers while in a Stasis Subclass will grant you the benefits from this Exotic.\nBosses are not finishable."
+    ],
+    "Skittering Stinger": [
+        "Throwing Knife gains greatly increased tracking and a second bounce.\nAfter 3 precision hits within 2.5 seconds: Gain Strengthened Throwing Knife\nFollow-up precision hits increase duration by 5 seconds each.",
+        "Strengthened Throwing Knife grants 200% [100%] more damage with throwing knife.\nStrengthened Throwing knife staggers unstoppable champions.\nLanding a throwing knife hit removes buff."
+    ],
+    "Parting Gift": [
+        "Dodging drops a Parting Gift that explodes and deals 120 damage over 7.5 meters with a 1(?) second fuse timer."
+    ],
+    "Hawkeye Hack": [
+        "Only one shot per Golden Gun activation.",
+        "Grants 500% more damage to Golden Gun.\n(37% more compared to Line 'Em Up x3)",
+        "Returns 33% of Super Energy on Kill."
+    ],
+    "Wraithmetal Mail": [
+        "On Dodge\nGrants Wraithmetal Mail for 9 seconds.",
+        "Wraithmetal Mail\nReloads all weapons\n100 Handling\n100 Reload\n50 Mobility\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%"
+    ],
+    "Relentless Tracker": [
+        "Tracks enemies for 5 seconds after hovering reticle over them. Persists briefly through walls.\nIf enemy is below 30% HP: Grants 1.01x more damage per percent below 30%\n(Eg: 10% HP left -> 1.2x damage increase)"
+    ],
+    "Rapid Cooldown": [
+        "If sprinting:\n100% Faster Grenade and Melee Recharge.\nRegenerates 3.5% Class Ability per Second.",
+        "6.25% faster sprint on dodge for 10 seconds. Not refreshable.",
+        "Additive to Focused Breathing's 3% Class Ability per Second"
+    ],
+    "Misdirection": [
+        "Dodging within 15 meters of an enemy applies Misdirection.",
+        "[PVE] Misdirection disorients minors as well as elites for 5 seconds.\n[PVP] Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding.",
+        "Misdirection also deals 1 damage on proc."
+    ]
+}

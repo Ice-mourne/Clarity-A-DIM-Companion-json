@@ -1,8 +1,9 @@
 {
     "exotic_armor":{
-        "link": "[class^='ItemPopupContainer-m_desktopPopupBody-'] > [class^='ItemPopupHeader-m_header-'] > [class^='ItemPopupHeader-m_title-'] > a",
-        "description": "[class^='ArchetypeSocket-m_info-'] > [class^='ItemSocketsGeneral-m_exoticDescription-']",
-        "new_div_loc": ".item-details-body > [class^='item-details'] > [class^='ArchetypeSocket-m_row-']",
-        "new_div_css": "[class^='ArchetypeSocket-m_info-']"
+        "stat_window": "content",
+        "perk_name": "ArchetypeSocket-m_name-3sBrL",
+        "description": "ItemSocketsGeneral-m_exoticDescription-dd6Tm",
+        "new_div_loc": "ArchetypeSocket-m_row-2WYTx",
+        "new_div_css": "ArchetypeSocket-m_info-35diU"
     }
 }

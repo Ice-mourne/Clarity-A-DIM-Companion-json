@@ -4,7 +4,7 @@
         "And its exotic perk name not exotics armor name",
         "For simple next line use \n as berore and don't leave spaces before or after \n"
     ],
-    "Vanishing Step": [
+    "Vanishing Execution": [
         "Gain Invisibility on Powered Arc, Solar, and Void Melee Kill. (Longer on Finishers)\nHeals for X on Powered Melee Kill. (Stronger on Finishers)",
         "Invisibility Duration\nMinor = 6 seconds (10)\nElite = 9 seconds (13)\nMiniboss = 12.5 seconds (13)\nBoss = 13 seconds (13)",
         "Finishers while in a Stasis Subclass will grant you the benefits from this Exotic.\nBosses are not finishable."
@@ -43,7 +43,7 @@
         "Increases duration of Invisibility effects.",
         "Rat King: 6 -> 8 seconds (33% increase).\nVanish in Smoke: 7 > 9 seconds (29% increase).\nVanishing Step: 5 -> 6 seconds (20% increase).\nFlawless Execution: 9 -> 12 seconds (33% increase)"
     ],
-    "Roving Assasin": [
+    "Roving Assassin": [
         "During Spectral Blades: Restores Super Energy % on Heavy Attack based on the amount of Spectral Blade Kills.",
         "Super Energy % gains based on kills:\nPvE 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1\n PvP 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7"
     ],
@@ -61,10 +61,10 @@
         "Cross Counter grants 3x increased melee damage.",
         "One-Two Punch's bonus is reduced to 80% if Cross Counter is active."
     ],
-    "Illegally Modified Holster": [
+    "Illegally Moddded Holster": [
       "Grants bonus accuracy and handling when readying a handcanon among other benefits"
     ],
-    "Probabilty Matrix": [
+    "Probability Matrix": [
         "25% chance per enemy hit with Arcbolt Grenade to recharge your Grenade.",
         "Arcbolt Grenades chain up to 5 times (from 4)"
     ],
@@ -81,7 +81,7 @@
     "Adamantine Brace": [
         "Can hold perfect draws indefinitely."
     ],
-    "Beyond the Veil": [
+    "Beyond The Veil": [
         "Grants an extra Smoke Bomb Charge.",
         "Cloaking allies grants 50% Melee Energy per ally.",
         "50% [10%] Damage Resistance on any Invisible effects. Applies to teammates made invisible."
@@ -93,7 +93,7 @@
     "Uncanny Arrows": [
         "super exotic"
     ],
-    "Synapse Junction": [
+    "Synapse Junctions": [
         "super exotic"
     ],
     "Mobius Conduit": [
@@ -342,7 +342,7 @@
         "Thorn final blows (by bullet) spreads poison.",
         "PvP values unknown."
     ],
-    "Abysmal Extractors": [
+    "Abyssal Extractors": [
         "Void Kills grant Abyssal Extractors for 2.5 seconds.\nMaxes out at 20 seconds.\n[PVP] Getting a double kill within 2.5 seconds maxes duration to 20 seconds.",
         "hile Abyssal Extractor is active:\n2.35% Rift Recharge per second\n3.65% Grenade and Melee Recharge per second\n0.67% Super Recharge per second."
     ],

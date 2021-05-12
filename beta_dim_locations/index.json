@@ -3,7 +3,7 @@
         "stat_window": "content",
         "perk_name": "ArchetypeSocket-m_name-3sBrL",
         "description": "ItemSocketsGeneral-m_exoticDescription-dd6Tm",
-        "new_div_loc": "ArchetypeSocket-m_row-2WYTx",
-        "new_div_css": "ArchetypeSocket-m_info-35diU"
+        "loc_for_new_div": "ArchetypeSocket-m_row-2WYTx",
+        "armor_perk_name": "ArchetypeSocket-m_info-35diU"
     }
 }

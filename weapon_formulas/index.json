@@ -1,67 +1,91 @@
 {
-    "Auto Rifle":      {"a": 0.000105640666666667,  "b": -0.0290040666666667, "c": 3.08620666666667},
-    "Combat Bow":      {"a": "",                    "b": "",                  "c": ""              },
-    "Fusion Rifle":    {"a": 0.0000759606666666667, "b": -0.0235252333333333, "c": 3.05622666666667},
-    "Special GL":      {"a": 0.0000894073333333333, "b": -0.0258361333333333, "c": 3.49046666666667},
-    "Heavy GL":        {"a": 0.0000932386666666667, "b": -0.0295255666666667, "c": 4.41473333333333},
-    "Hand Cannon":     {"a": 0.000159282666666667,  "b": -0.043624,           "c": 4.61606666666667},
-    "Linear Fusion":   {"a": 0.0000726496666666667, "b": -0.0236623666666667, "c": 3.10142333333   },
-    "Machine Gun":     {"a": 0.000111771666666667,  "b": -0.0362153333333333, "c": 6.47296666666667},
-    "Pulse Rifle":     {"a": 0.000114346666666667,  "b": -0.0308288666666667, "c": 3.22312666666667},
-    "Rocket Launcher": {"a": 0.000128344666666667,  "b": -0.0305745666666667, "c": 4.38473333333333},
-    "Scout Rifle":     {"a": 0.000127055666666667,  "b": -0.0333065333333333, "c": 3.43833333333333},
-    "Shotgun":         {"a": 0.0000790693333333333, "b": -0.0173282,          "c": 1.41598333333333},
-    "Sidearm":         {"a": 0.0000294211666666667, "b": -0.0144276333333333, "c": 2.28800666666667},
-    "Sniper Rifle":    {"a": 0.0000832713333333333, "b": -0.0273923666666667, "c": 4.104           },
-    "Submachine Gun":  {"a": 0.000075141,           "b": -0.0227633333333333, "c": 2.84781333333333},
-    "Trace Rifle":     {"a": "",                    "b": "",                  "c": ""              },
-    "---- ---------": "",
-    "Auto Rifle - High-Impact Frame": {"zrm": 1.575, "zoom_tier": 16, "vpp": 0.107, "base_range": 10.05},
-    "Auto Rifle - Precision Frame":   {"zrm": 1.575, "zoom_tier": 16, "vpp": 0.107, "base_range": 10.05},
-    "Auto Rifle - Adaptive Frame":    {"zrm": 1.575, "zoom_tier": 16, "vpp": 0.107, "base_range": 10.05},
-    "Auto Rifle - Lightweight Frame": {"zrm": 1.575, "zoom_tier": 16, "vpp": 0.107, "base_range": 10.05},
-    "Auto Rifle - Rapid-Fire Frame":  {"zrm": 1.575, "zoom_tier": 16, "vpp": 0.107, "base_range": 10.05},
-    "---------- ---": "",
-    "Fusion Rifle - Adaptive Frame":    {"zrm": 1.3, "zoom_tier": 15, "vpp": 0.036, "base_range": 10.2},
-    "Fusion Rifle - Aggressive Frame":  {"zrm": 1.3, "zoom_tier": 15, "vpp": 0.036, "base_range": 10.2},
-    "Fusion Rifle - High-Impact Frame": {"zrm": 1.3, "zoom_tier": 15, "vpp": 0.036, "base_range": 10.2},
-    "Fusion Rifle - Precision Frame":   {"zrm": 1.3, "zoom_tier": 15, "vpp": 0.036, "base_range": 10.2},
-    "Fusion Rifle - Rapid-Fire Frame":  {"zrm": 1.3, "zoom_tier": 15, "vpp": 0.036, "base_range": 10.2},
-    "----------- --": "",
-    "Hand Cannon - Adaptive Frame":   {"zrm": 1.375, "zoom_tier": 14, "vpp": 0.096, "base_range": 16},
-    "Hand Cannon - Aggressive Frame": {"zrm": 1.375, "zoom_tier": 14, "vpp": 0.115, "base_range": 20.8},
-    "Hand Cannon - Precision Frame":  {"zrm": 1.375, "zoom_tier": 14, "vpp": 0.096, "base_range": 16},
-    "-------- -----": "",
-    "Linear Fusion - ": "",
-    "MachineGun - ": "",
-    "------ -------": "",
-    "Pulse Rifle - Adaptive Frame":    {"zrm": 1.675, "zoom_tier": 17, "vpp": 0.08, "base_range": 15.4},
-    "Pulse Rifle - Aggressive Burst":  {"zrm": 1.675, "zoom_tier": 17, "vpp": 0.08, "base_range": 15.4},
-    "Pulse Rifle - High-Impact Frame": {"zrm": 1.675, "zoom_tier": 17, "vpp": 0.08, "base_range": 15.4},
-    "Pulse Rifle - Lightweight Frame": {"zrm": 1.675, "zoom_tier": 17, "vpp": 0.08, "base_range": 15.4},
-    "Pulse Rifle - Rapid-Fire Frame":  {"zrm": 1.675, "zoom_tier": 17, "vpp": 0.08, "base_range": 15.4},
-    "-- -----------": "",
-    "Scout Rifle - High-Impact Frame": {"zrm": 1.975, "zoom_tier": 20, "vpp": 0.169, "base_range": 29.2},
-    "Scout Rifle - Lightweight Frame": {"zrm": 1.975, "zoom_tier": 20, "vpp": 0.169, "base_range": 29.2},
-    "Scout Rifle - Precision Frame":   {"zrm": 1.975, "zoom_tier": 20, "vpp": 0.169, "base_range": 29.2},
-    "Scout Rifle - Rapid-Fire Frame":  {"zrm": 1.975, "zoom_tier": 20, "vpp": 0.169, "base_range": 29.2},
-    "Scout Rifle - VEIST Rapid-Fire":  {"zrm": 1.975, "zoom_tier": 20, "vpp": 0.169, "base_range": 29.2},
-    "------- ------": "",
-    "Shotgun - ": "",
-    "------------- ": "",
-    "Sidearm - Adaptive Frame":        {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6},
-    "Sidearm - Aggressive Burst":      {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6},
-    "Sidearm - Lightweight Frame":     {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6},
-    "Sidearm - Omolon Adaptive Frame": {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6},
-    "Sidearm - Precision Frame":       {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6},
-    "Sidearm - SUROS Rapid-Fire":      {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6},
-    "Sidearm - Together Forever":      {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6},
-    "------------ -": "",
-    "Submachine Gun - Adaptive Frame":    {"zrm": 1.275, "zoom_tier": 13, "vpp": 0.126, "base_range": 4.8},
-    "Submachine Gun - Aggressive Frame":  {"zrm": 1.275, "zoom_tier": 13, "vpp": 0.126, "base_range": 4.8},
-    "Submachine Gun - Lightweight Frame": {"zrm": 1.275, "zoom_tier": 13, "vpp": 0.126, "base_range": 4.8},
-    "Submachine Gun - MIDA Synergy":      {"zrm": 1.275, "zoom_tier": 13, "vpp": 0.126, "base_range": 4.8},
-    "Submachine Gun - Precision Frame":   {"zrm": 1.275, "zoom_tier": 13, "vpp": 0.126, "base_range": 4.8},
-    " -------------": "",
-    "Trace Rifle - ": ""
+    "Auto Rifle": {
+        "High-Impact Frame": {"zrm": 1.575, "zoom_tier": 16, "vpp": 0.107, "base_range": 10.05, "a": 0.000105640666666667, "b": -0.0290040666666667, "c": 3.08620666666667},
+        "Precision Frame":   {"zrm": 1.575, "zoom_tier": 16, "vpp": 0.107, "base_range": 10.05, "a": 0.000105640666666667, "b": -0.0290040666666667, "c": 3.08620666666667},
+        "Adaptive Frame":    {"zrm": 1.575, "zoom_tier": 16, "vpp": 0.107, "base_range": 10.05, "a": 0.000105640666666667, "b": -0.0290040666666667, "c": 3.08620666666667},
+        "Lightweight Frame": {"zrm": 1.575, "zoom_tier": 16, "vpp": 0.107, "base_range": 10.05, "a": 0.000105640666666667, "b": -0.0290040666666667, "c": 3.08620666666667},
+        "Rapid-Fire Frame":  {"zrm": 1.575, "zoom_tier": 16, "vpp": 0.107, "base_range": 10.05, "a": 0.000105640666666667, "b": -0.0290040666666667, "c": 3.08620666666667}
+    },
+    "Combat Bow": {
+        "Lightweight Frame":{},
+        "Precision Frame":{}
+    },
+    "Fusion Rifle":{
+        "Adaptive Frame":    {"zrm": 1.3, "zoom_tier": 15, "vpp": 0.036, "base_range": 10.2, "a": 0.0000759606666666667, "b": -0.0235252333333333, "c": 3.05622666666667},
+        "Aggressive Frame":  {"zrm": 1.3, "zoom_tier": 15, "vpp": 0.036, "base_range": 10.2, "a": 0.0000759606666666667, "b": -0.0235252333333333, "c": 3.05622666666667},
+        "High-Impact Frame": {"zrm": 1.3, "zoom_tier": 15, "vpp": 0.036, "base_range": 10.2, "a": 0.0000759606666666667, "b": -0.0235252333333333, "c": 3.05622666666667},
+        "Precision Frame":   {"zrm": 1.3, "zoom_tier": 15, "vpp": 0.036, "base_range": 10.2, "a": 0.0000759606666666667, "b": -0.0235252333333333, "c": 3.05622666666667},
+        "Rapid-Fire Frame":  {"zrm": 1.3, "zoom_tier": 15, "vpp": 0.036, "base_range": 10.2, "a": 0.0000759606666666667, "b": -0.0235252333333333, "c": 3.05622666666667}
+    },
+    "Special GL": {
+        "Lightweight Frame": {"a": 0.0000894073333333333, "b": -0.0258361333333333, "c": 3.49046666666667},
+        "Wave Frame":        {"a": 0.0000894073333333333, "b": -0.0258361333333333, "c": 3.49046666666667}
+    },
+    "Heavy GL": {
+        "Adaptive Frame":   {"a": 0.0000932386666666667, "b": -0.0295255666666667, "c": 4.41473333333333},
+        "Precision Frame":  {"a": 0.0000932386666666667, "b": -0.0295255666666667, "c": 4.41473333333333},
+        "Rapid-Fire Frame": {"a": 0.0000932386666666667, "b": -0.0295255666666667, "c": 4.41473333333333}
+    },
+    "Hand Cannon":{
+        "Adaptive Frame":   {"zrm": 1.375, "zoom_tier": 14, "vpp": 0.096, "base_range": 16,   "a": 0.000159282666666667, "b": -0.043624, "c": 4.61606666666667},
+        "Aggressive Frame": {"zrm": 1.375, "zoom_tier": 14, "vpp": 0.115, "base_range": 20.8, "a": 0.000159282666666667, "b": -0.043624, "c": 4.61606666666667},
+        "Precision Frame":  {"zrm": 1.375, "zoom_tier": 14, "vpp": 0.096, "base_range": 16,   "a": 0.000159282666666667, "b": -0.043624, "c": 4.61606666666667}
+    },
+    "Linear Fusion": {
+        "Precision Frame": {"a": 0.0000726496666666667, "b": -0.0236623666666667, "c": 3.10142333333}
+    },
+    "Machine Gun": {
+        "Adaptive Frame":    {"a": 0.000111771666666667,  "b": -0.0362153333333333, "c": 6.47296666666667},
+        "High-Impact Frame": {"a": 0.000111771666666667,  "b": -0.0362153333333333, "c": 6.47296666666667},
+        "Rapid-Fire Frame":  {"a": 0.000111771666666667,  "b": -0.0362153333333333, "c": 6.47296666666667}
+    },
+    "Pulse Rifle":{
+        "Adaptive Frame":    {"zrm": 1.675, "zoom_tier": 17, "vpp": 0.08, "base_range": 15.4, "a": 0.000114346666666667,  "b": -0.0308288666666667, "c": 3.22312666666667},
+        "Aggressive Burst":  {"zrm": 1.675, "zoom_tier": 17, "vpp": 0.08, "base_range": 15.4, "a": 0.000114346666666667,  "b": -0.0308288666666667, "c": 3.22312666666667},
+        "High-Impact Frame": {"zrm": 1.675, "zoom_tier": 17, "vpp": 0.08, "base_range": 15.4, "a": 0.000114346666666667,  "b": -0.0308288666666667, "c": 3.22312666666667},
+        "Lightweight Frame": {"zrm": 1.675, "zoom_tier": 17, "vpp": 0.08, "base_range": 15.4, "a": 0.000114346666666667,  "b": -0.0308288666666667, "c": 3.22312666666667},
+        "Rapid-Fire Frame":  {"zrm": 1.675, "zoom_tier": 17, "vpp": 0.08, "base_range": 15.4, "a": 0.000114346666666667,  "b": -0.0308288666666667, "c": 3.22312666666667}
+    },
+    "Rocket Launcher": {
+        "Adaptive Frame":        {"a": 0.000128344666666667,  "b": -0.0305745666666667, "c": 4.38473333333333},
+        "Aggressive Frame":      {"a": 0.000128344666666667,  "b": -0.0305745666666667, "c": 4.38473333333333},
+        "Häkke Precision Frame": {"a": 0.000128344666666667,  "b": -0.0305745666666667, "c": 4.38473333333333},
+        "High-Impact Frame":     {"a": 0.000128344666666667,  "b": -0.0305745666666667, "c": 4.38473333333333},
+        "Precision Frame":       {"a": 0.000128344666666667,  "b": -0.0305745666666667, "c": 4.38473333333333}
+    },
+    "Scout Rifle": {
+        "High-Impact Frame": {"zrm": 1.975, "zoom_tier": 20, "vpp": 0.169, "base_range": 29.2, "a": 0.000127055666666667,  "b": -0.0333065333333333, "c": 3.43833333333333},
+        "Lightweight Frame": {"zrm": 1.975, "zoom_tier": 20, "vpp": 0.169, "base_range": 29.2, "a": 0.000127055666666667,  "b": -0.0333065333333333, "c": 3.43833333333333},
+        "Precision Frame":   {"zrm": 1.975, "zoom_tier": 20, "vpp": 0.169, "base_range": 29.2, "a": 0.000127055666666667,  "b": -0.0333065333333333, "c": 3.43833333333333},
+        "Rapid-Fire Frame":  {"zrm": 1.975, "zoom_tier": 20, "vpp": 0.169, "base_range": 29.2, "a": 0.000127055666666667,  "b": -0.0333065333333333, "c": 3.43833333333333},
+        "VEIST Rapid-Fire":  {"zrm": 1.975, "zoom_tier": 20, "vpp": 0.169, "base_range": 29.2, "a": 0.000127055666666667,  "b": -0.0333065333333333, "c": 3.43833333333333}
+    },
+    "Shotgun": {
+        "Aggressive Frame":  {"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
+        "Lightweight Frame": {"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
+        "Precision Frame":   {"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
+        "Rapid-Fire Frame":  {"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
+        "Shot Package":      {"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333}
+    },
+    "Sidearm": {
+        "Adaptive Frame":        {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6, "a": 0.0000294211666666667, "b": -0.0144276333333333, "c": 2.28800666666667},
+        "Aggressive Burst":      {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6, "a": 0.0000294211666666667, "b": -0.0144276333333333, "c": 2.28800666666667},
+        "Lightweight Frame":     {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6, "a": 0.0000294211666666667, "b": -0.0144276333333333, "c": 2.28800666666667},
+        "Omolon Adaptive Frame": {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6, "a": 0.0000294211666666667, "b": -0.0144276333333333, "c": 2.28800666666667},
+        "Precision Frame":       {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6, "a": 0.0000294211666666667, "b": -0.0144276333333333, "c": 2.28800666666667},
+        "SUROS Rapid-Fire":      {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6, "a": 0.0000294211666666667, "b": -0.0144276333333333, "c": 2.28800666666667},
+        "Together Forever":      {"zrm": 1.175, "zoom_tier": 12, "vpp": 0.034, "base_range": 11.6, "a": 0.0000294211666666667, "b": -0.0144276333333333, "c": 2.28800666666667}
+    },
+    "Sniper Rifle": {
+        "Adaptive Frame":   {"a": 0.0000832713333333333, "b": -0.0273923666666667, "c": 4.104 },
+        "Aggressive Frame": {"a": 0.0000832713333333333, "b": -0.0273923666666667, "c": 4.104 },
+        "Rapid-Fire Frame": {"a": 0.0000832713333333333, "b": -0.0273923666666667, "c": 4.104 }
+    },
+    "Submachine Gun": {
+        "Adaptive Frame":    {"zrm": 1.275, "zoom_tier": 13, "vpp": 0.126, "base_range": 4.8, "a": 0.000075141, "b": -0.0227633333333333, "c": 2.84781333333333},
+        "Aggressive Frame":  {"zrm": 1.275, "zoom_tier": 13, "vpp": 0.126, "base_range": 4.8, "a": 0.000075141, "b": -0.0227633333333333, "c": 2.84781333333333},
+        "Lightweight Frame": {"zrm": 1.275, "zoom_tier": 13, "vpp": 0.126, "base_range": 4.8, "a": 0.000075141, "b": -0.0227633333333333, "c": 2.84781333333333},
+        "MIDA Synergy":      {"zrm": 1.275, "zoom_tier": 13, "vpp": 0.126, "base_range": 4.8, "a": 0.000075141, "b": -0.0227633333333333, "c": 2.84781333333333},
+        "Precision Frame":   {"zrm": 1.275, "zoom_tier": 13, "vpp": 0.126, "base_range": 4.8, "a": 0.000075141, "b": -0.0227633333333333, "c": 2.84781333333333}
+    }
 }

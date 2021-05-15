@@ -5,5 +5,16 @@
         "description": "ItemSocketsGeneral-m_exoticDescription-dd6Tm",
         "loc_for_new_div": "ArchetypeSocket-m_row-2WYTx",
         "armor_perk_name": "ArchetypeSocket-m_info-35diU"
+    },
+    "extra_weapon_stats":{
+        "stat_window": "content",
+        "wep_link": ".ItemPopupHeader-m_title-2hFLg > a",
+        "wep_stats": "ItemStats-m_stats-3ywbI",
+        "wep_stat_name_class": "ItemStat-m_statName-1XPu7",
+        "wep_stat_value_class": "ItemStat-m_value-3utrN"
+
+    },
+    "weapon_perks": {
+        
     }
 }

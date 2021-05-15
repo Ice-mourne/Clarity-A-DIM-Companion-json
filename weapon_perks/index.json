@@ -14,7 +14,7 @@
     "Cluster Bomb": "<div class='new_pd'>Rockets generate 8 additional Cluster Bombs on detonation.<br>Each bomb deals about 3% additional damage.</div>",
     "Counterattack": "<div class='new_pd'>Blocking an attack immediately after Guarding increases Damage by 50% for 2s.</div>",
     "Death at First Glance": "<div class='new_pd'>First shot while ADS deals 33% increased Damage.<br>Bonus is Preserved:<br>On Precision / Elemental Shields Hits.<br>If lost, buff is regained after 3 seconds of not firing.</div>",
-    "Demolitionist": "<div class='new_pd'>Kills restore Grenade Energy.</div> <div class='new_pd'>Primary 10%<br>Energy 20%</div> <div class='new_pd'></div> <div class='new_pd'>Using Grenade Ability:<br>Reloads weapon. 3 Second Cooldown.</div>",
+    "Demolitionist": "<div class='new_pd'>Kills restore Grenade Energy.</div> <div class='new_pd'>Primary and Heavy 10%<br>Energy 20%</div> <div class='new_pd'></div> <div class='new_pd'>Using Grenade Ability:<br>Reloads weapon. 3 Second Cooldown.</div>",
     "Desperado": "<div class='new_pd'>Reloading within 6 seconds after a Precision Kill:<br>increases your Rate of Fire to 600RPM for 7 seconds. Reduces damage against Combatants by 20%<br>Can be refreshed.</div>",
     "Disruption Break": "<div class='new_pd'>On Elemental / Barrier or Guardian shield break:<br>Applies a debuff that grants:<br>50% increased Kinetic Damage for 5.5 seconds.</div>",
     "Dragonfly": "<div class='new_pd'>Precision Kills explode the target<br>Dealing the Weapon's Elemental Damage over<br>3 meter radius.<br>Damage is not increased by Weapon Perks.</div> <div class='new_pd'>Dragonfly Spec grants 50% more damage and radius.</div>",

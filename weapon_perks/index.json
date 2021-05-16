@@ -189,8 +189,8 @@
        "text":"how much range it adds"
     },
     "Rapid Hit":{
-       "text":"<div class='new_pd'>Precision hits build Rapid Hit stacks, granting:</div> <table class='new_pd' style='border-spacing: 7px 2px;'> <tbody> <tr> <th></th> <th>Stability</th> <th>Reload Speed</th> <th>Reload Time</th> </tr> <tr> <td>1x</td> <td>5</td> <td>10</td> <td>num_1</td> </tr> <tr> <td>2x</td> <td>10</td> <td>27</td> <td>num_2</td> </tr> <tr> <td>3x</td> <td>10</td> <td>32</td> <td>num_3</td> </tr> <tr> <td>4x</td> <td>20</td> <td>40</td> <td>num_4</td> </tr> <tr> <td>5x</td> <td>23</td> <td>54</td> <td>num_5</td> </tr> </tbody> </table> <div class='new_pd'>for 2 seconds.</div>",
-       "numbers":[10, 27, 32, 40, 54]
+       "text":"<div class='new_pd'>Precision hits build Rapid Hit stacks, granting:</div> <style> tr:nth-child(even) {background:#222;} td, th{padding-top: 3px; padding-bottom: 3px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse;'> <tbody> <tr> <th></th> <th>Stability</th> <th>Reload Speed</th> <th>Reload Time</th> </tr> <tr> <td>1x</td> <td>5</td> <td>10</td> <td>t_num_1</td> </tr> <tr> <td>2x</td> <td>10</td> <td>27</td> <td>t_num_2</td> </tr> <tr> <td>3x</td> <td>10</td> <td>32</td> <td>t_num_3</td> </tr> <tr> <td>4x</td> <td>20</td> <td>40</td> <td>t_num_4</td> </tr> <tr> <td>5x</td> <td>23</td> <td>54</td> <td>t_num_5</td> </tr> </tbody> </table> <div class='new_pd'>for 2 seconds.</div>",
+       "t_num":[10, 27, 32, 40, 54]
     },
     "Reconstruction":{
        "text":"<div class='new_pd'>After not shooting for 4 seconds:<br>Reloads 10% of base magazine<br>Maxes out at double magazine size.</div>"

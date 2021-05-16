@@ -23,11 +23,14 @@
     "Bottomless Grief":{
        "text":"<div class='new_pd'>If Last Guardian Standing:<br>Kills reload Magazine.</div>"
     },
-    "Box Breathing -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":"<style> tr:nth-child(even) {background:#222;} td, th{padding-top: 1px; padding-bottom: 5px; padding-right: 7px; padding-left: 7px;}</style> <div class='new_pd'>After scoping in for 1.5s without firing:</div> <table class='new_pd' style='border-collapse:collapse;'> <tbody><tr> <th></th> <th>Precision<br>Damage</th> <th>Accuracy</th> <th>Range</th> </tr> <tr> <td>Snipers<br>Aggressive</td> <td>37%</td> <td>X</td> <td>Y</td> </tr> <tr> <td>Snipers<br>Rapid-Fire,<br>Adaptive</td> <td>31%</td> <td>X</td> <td>Y</td> </tr> <tr> <td>Linear Fusion</td> <td>33%</td> <td>X</td> <td>Y</td> </tr> <tr> <td>Scout Rifles</td> <td>66%</td> <td>X</td> <td>Y</td> </tr> </tbody></table>"
+    "Box Breathing":{
+       "text":"<style> tr:nth-child(even) {background:#222;} td, th{padding-top: 1px; padding-bottom: 5px; padding-right: 7px; padding-left: 7px;}</style> <div class='new_pd'>After scoping in for 1.5s without firing:</div> <table class='new_pd' style='border-collapse:collapse;'> <tbody><tr> <th></th> <th>Precision<br>Damage</th> <th>Accuracy</th> <th>Range</th> </tr> <tr> <td>Snipers<br>Aggressive</td> <td>37%</td> <td>X</td> <td>Y</td> </tr> <tr> <td>Snipers<br>Rapid-Fire,<br>Adaptive</td> <td>31%</td> <td>X</td> <td>Y</td> </tr> <tr> <td>Linear Fusion</td> <td>33%</td> <td>X</td> <td>Y</td> </tr> <tr> <td>Scout Rifles</td> <td>66%</td> <td>X</td> <td>Y</td> </tr> </tbody></table>",
+       "----------------------------------------------------------------------------":""
     },
-    "Celerity -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":"<div class='new_pd'>If Last Guardian Standing:<br>100 Handling, Reload and Aim Assist<br>Massively decreased flinch received<br>Increased accuracy<br>Stronger scope highlight<br>Enables radar while ADS<br></div> <div class='new_pd'>Passive: 18 Handling and Reload</div>"
+    "Celerity":{
+       "text":"<div class='new_pd'>If Last Guardian Standing:<br>Massively decreased flinch received<br>Increased accuracy<br>Stronger scope highlight<br>Enables radar while ADS<br></div> <table class='new_pd' style='border-spacing: 7px 2px;'> <tbody> <tr> <th></th> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th>Handling</th> <th>Aim Assist</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>100</td> <td>100</td> <td>100</td> <td>t_num_1</td> <td>t_num_2</td> </tr> </tbody> </table> <div class='new_pd'>Passive:</div> <table class='new_pd' style='border-spacing: 7px 2px;'> <tbody> <tr> <th></th> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th>Handling</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>100</td> <td>100</td> <td>t_num_3</td> <td>t_num_4</td> </tr> </tbody> </table>",
+       "t_num":[100, 18],
+       "----------------------------------------------------------------------------":""
     },
     "Chain Reaction":{
        "text":"<div class='new_pd'>Kills explode enemies, potentially chaining.</div>"

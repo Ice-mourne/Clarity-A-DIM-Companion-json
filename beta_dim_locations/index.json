@@ -20,6 +20,7 @@
     "d2_gunsmith": {
         "stat_window": "content",
         "location": ".ActionButton-m_actionButton-V9iV5",
+        "class": "ActionButton-m_actionButton-V9iV5",
         "buton_text_hide": ".DesktopItemActions-m_collapsed-doC6W",
         "click_event": ".DesktopItemActions-m_collapseButton-2xfla",
         "link": ".ItemPopupHeader-m_title-2hFLg > a"

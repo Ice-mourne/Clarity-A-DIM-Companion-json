@@ -17,11 +17,14 @@
 }
 .name_img {
     text-align: center;
+    align-self: center;
 }
 .name_img img {
     width: 75px;
+    height: 75px;
 }
 .exotic_armor img {
-    height: fit-content;
+    width: 75px;
+    height: 75px;
     align-self: center;
 }

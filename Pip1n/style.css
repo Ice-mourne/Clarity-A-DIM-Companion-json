@@ -1,0 +1,8 @@
+.main_page {
+   display: flex;
+   flex-direction: row; 
+}
+.exotic_column {
+    display: flex;
+    flex-direction: row; 
+}

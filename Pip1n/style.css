@@ -8,4 +8,6 @@
 }
 .exotic_armor {
     border: 1px solid;
+    display: flex;
+    flex-direction: row;
 }

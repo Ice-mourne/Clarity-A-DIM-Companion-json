@@ -9,7 +9,7 @@
 .exotic_armor {
     border: 2px solid;
     display: grid;
-    grid-template-columns: 1fr 1fr 10fr;
+    grid-template-columns: 2fr 1fr 10fr;
     padding: 10px;
 }
 .description {

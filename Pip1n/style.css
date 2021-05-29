@@ -6,3 +6,6 @@
     display: flex;
     flex-direction: column; 
 }
+.exotic_armor {
+    border: 1px solid;
+}

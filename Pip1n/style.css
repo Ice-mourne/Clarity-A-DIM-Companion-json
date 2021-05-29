@@ -12,3 +12,16 @@
     flex-direction: row;
     padding: 10px;
 }
+.description {
+    padding: 5px;
+}
+.name_img {
+    text-align: center;
+}
+.name_img img {
+    width: 75px;
+}
+.exotic_armor img {
+    height: fit-content;
+    align-self: center;
+}

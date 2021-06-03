@@ -4,7 +4,7 @@
     },
     "Alloy Magazine":{
       "text": "<div class='new_pd'>0.85 Reload scale then magazine is empty<br>-xxx reload time</div>",
-      "m_num": [0.85],
+      "reload_muti": [0.85],
       "--------------------------------------------------------------------------------------------------": "fix reload"
     },
     "Ambitious Assassin":{
@@ -33,8 +33,8 @@
        "----------------------------------------------------------------------------":""
     },
     "Celerity":{
-       "text":"<div class='new_pd'>If Last Guardian Standing: Decrease flinch received<br>Increased accuracy, Stronger scope highlight<br>Enables radar while ADS</div> <table class='new_pd' style='border-spacing: 7px 0px; margin-top: -5px;'> <tbody> <tr> <th></th> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th>Handling</th> <th>Aim Assist</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>100</td> <td>100</td> <td>100</td> <td>t_num_1</td> <td>t_num_2</td> </tr> </tbody> </table> <div class='new_pd'>Passive:</div> <table class='new_pd' style='border-spacing: 7px 0px; margin-top: -7px;'> <tbody> <tr> <td></td> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th>Handling</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>18</td> <td>18</td> <td>t_num_3</td> <td>t_num_4</td> </tr> </tbody> </table>",
-       "t_num":[100, 18],
+       "text":"<div class='new_pd'>If Last Guardian Standing: Decrease flinch received<br>Increased accuracy, Stronger scope highlight<br>Enables radar while ADS</div> <table class='new_pd' style='border-spacing: 7px 0px; margin-top: -5px;'> <tbody> <tr> <th></th> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th>Handling</th> <th>Aim Assist</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>100</td> <td>100</td> <td>100</td> <td>reload_stat_1</td> <td>reload_stat_2</td> </tr> </tbody> </table> <div class='new_pd'>Passive:</div> <table class='new_pd' style='border-spacing: 7px 0px; margin-top: -7px;'> <tbody> <tr> <td></td> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th>Handling</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>18</td> <td>18</td> <td>reload_stat_3</td> <td>reload_stat_4</td> </tr> </tbody> </table>",
+       "reload_stat":[100, 18],
        "----------------------------------------------------------------------------":""
     },
     "Chain Reaction":{
@@ -83,9 +83,9 @@
        "text":"data incomplete not adding for now"
     },
     "Feeding Frenzy":{
-       "text":"<div class='new_pd'>Kills increase Reload Speed for 3.5 seconds. Refreshes on kill.</div> <style> .feeding_frenzy tr:nth-child(even) {background:#222;} .feeding_frenzy td, .feeding_frenzy th{padding-top: 3px;padding-bottom: 3px;padding-right: 7px;padding-left: 7px;} </style> <table class='new_pd feeding_frenzy' style='border-collapse:collapse;'> <tbody> <tr> <th></th> <th>Stat</th> <th>Multiplier</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>1x</td> <td>10</td> <td>-</td> <td>t_num_1</td> <td>t_num_2</td> </tr> <tr> <td>2x</td> <td>45</td> <td>0.9x</td> <td>t_num_3</td> <td>t_num_4</td> </tr> <tr> <td>3x</td> <td>55</td> <td>0.88x</td> <td>t_num_5</td> <td>t_num_6</td> </tr> <tr> <td>4x</td> <td>70</td> <td>0.85x</td> <td>t_num_7</td> <td>t_num_8</td> </tr> <tr> <td>5x</td> <td>100</td> <td>0.8x</td> <td>t_num_9</td> <td>t_num_10</td> </tr> </tbody> </table>",
-       "t_num":[10, 45, 55, 70, 100],
-       "m_num":[1, 0.9, 0.88, 0.85, 0.8]
+       "text":"<div class='new_pd'>Kills increase Reload Speed for 3.5 seconds. Refreshes on kill.</div> <style> .feeding_frenzy tr:nth-child(even) {background:#222;} .feeding_frenzy td, .feeding_frenzy th{padding-top: 3px;padding-bottom: 3px;padding-right: 7px;padding-left: 7px;} </style> <table class='new_pd feeding_frenzy' style='border-collapse:collapse;'> <tbody> <tr> <th></th> <th>Stat</th> <th>Multiplier</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>1x</td> <td>10</td> <td>-</td> <td>reload_stat_1</td> <td>reload_stat_2</td> </tr> <tr> <td>2x</td> <td>45</td> <td>0.9x</td> <td>reload_stat_3</td> <td>reload_stat_4</td> </tr> <tr> <td>3x</td> <td>55</td> <td>0.88x</td> <td>reload_stat_5</td> <td>reload_stat_6</td> </tr> <tr> <td>4x</td> <td>70</td> <td>0.85x</td> <td>reload_stat_7</td> <td>reload_stat_8</td> </tr> <tr> <td>5x</td> <td>100</td> <td>0.8x</td> <td>reload_stat_9</td> <td>reload_stat_10</td> </tr> </tbody> </table>",
+       "reload_stat":[10, 45, 55, 70, 100],
+       "reload_muti":[1, 0.9, 0.88, 0.85, 0.8]
     },
     "Field Prep -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
       "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
@@ -199,8 +199,8 @@
        "text":"how much range it adds"
     },
     "Rapid Hit":{
-       "text":"<div class='new_pd'>Precision hits build Rapid Hit stacks, granting:</div> <style> .rapid_hit tr:nth-child(odd) {background:#222;} .rapid_hit td, .rapid_hit th{padding-top: 3px;padding-bottom: 3px;padding-right: 7px;padding-left: 7px;} </style> <table class='new_pd rapid_hit' style='border-collapse:collapse;'> <tbody> <tr style='background: none;'> <th></th> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th></th> <th>Stability</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>1x</td> <td>5</td> <td>10</td> <td>t_num_1</td> <td>t_num_2</td> </tr> <tr> <td>2x</td> <td>10</td> <td>27</td> <td>t_num_3</td> <td>t_num_4</td> </tr> <tr> <td>3x</td> <td>10</td> <td>32</td> <td>t_num_5</td> <td>t_num_6</td> </tr> <tr> <td>4x</td> <td>20</td> <td>40</td> <td>t_num_7</td> <td>t_num_8</td> </tr> <tr> <td>5x</td> <td>23</td> <td>54</td> <td>t_num_9</td> <td>t_num_10</td> </tr> </tbody> </table> <div class='new_pd'>for 2 seconds.</div>",
-       "t_num":[10, 27, 32, 40, 54]
+       "text":"<div class='new_pd'>Precision hits build Rapid Hit stacks, granting:</div> <style> .rapid_hit tr:nth-child(odd) {background:#222;} .rapid_hit td, .rapid_hit th{padding-top: 3px;padding-bottom: 3px;padding-right: 7px;padding-left: 7px;} </style> <table class='new_pd rapid_hit' style='border-collapse:collapse;'> <tbody> <tr style='background: none;'> <th></th> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th></th> <th>Stability</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>1x</td> <td>5</td> <td>10</td> <td>reload_stat_1</td> <td>reload_stat_2</td> </tr> <tr> <td>2x</td> <td>10</td> <td>27</td> <td>reload_stat_3</td> <td>reload_stat_4</td> </tr> <tr> <td>3x</td> <td>10</td> <td>32</td> <td>reload_stat_5</td> <td>reload_stat_6</td> </tr> <tr> <td>4x</td> <td>20</td> <td>40</td> <td>reload_stat_7</td> <td>reload_stat_8</td> </tr> <tr> <td>5x</td> <td>23</td> <td>54</td> <td>reload_stat_9</td> <td>reload_stat_10</td> </tr> </tbody> </table> <div class='new_pd'>for 2 seconds.</div>",
+       "reload_stat":[10, 27, 32, 40, 54]
     },
     "Reconstruction":{
        "text":"<div class='new_pd'>After not shooting for 4 seconds:<br>Reloads 10% of base magazine<br>Maxes out at double magazine size.</div>"

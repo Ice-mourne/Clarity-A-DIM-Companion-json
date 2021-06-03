@@ -5,7 +5,7 @@
    "Alloy Magazine":{
       "text": "<div class='new_pd'>0.85 Reload scale then magazine is empty<br>-xxx reload time</div>",
       "reload_stat":[0],
-      "reload_muti":[0.85],
+      "reload_multi":[0.85],
       "--------------------------------------------------------------------------------------------------": "fix reload"
    },
    "Ambitious Assassin":{
@@ -36,7 +36,7 @@
    "Celerity":{
       "text":"<div class='new_pd'>If Last Guardian Standing: Decrease flinch received<br>Increased accuracy, Stronger scope highlight<br>Enables radar while ADS</div> <table class='new_pd' style='border-spacing: 7px 0px; margin-top: -5px;'> <tbody> <tr> <th></th> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th>Handling</th> <th>Aim Assist</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>100</td> <td>100</td> <td>100</td> <td>reload_time_1</td> <td>reload_stat_2</td> </tr> </tbody> </table> <div class='new_pd'>Passive:</div> <table class='new_pd' style='border-spacing: 7px 0px; margin-top: -7px;'> <tbody> <tr> <td></td> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th>Handling</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>18</td> <td>18</td> <td>reload_time_3</td> <td>reload_stat_4</td> </tr> </tbody> </table>",
       "reload_stat":[100, 18],
-      "reload_muti":[1  , 1 ],
+      "reload_multi":[1  , 1 ],
       "----------------------------------------------------------------------------":""
    },
    "Chain Reaction":{

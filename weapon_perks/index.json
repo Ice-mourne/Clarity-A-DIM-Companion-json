@@ -87,7 +87,7 @@
    "Feeding Frenzy":{
       "text":"<div class='new_pd'>Kills increase Reload Speed for 3.5 seconds. Refreshes on kill.</div> <style> .feeding_frenzy tr:nth-child(even) {background:#222;} .feeding_frenzy td, .feeding_frenzy th{padding-top: 3px;padding-bottom: 3px;padding-right: 7px;padding-left: 7px;} </style> <table class='new_pd feeding_frenzy' style='border-collapse:collapse;'> <tbody> <tr> <th></th> <th>Stat</th> <th>Multiplier</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>1x</td> <td>10</td> <td>-</td> <td>relo_t_1</td> <td>relo_r_1</td> </tr> <tr> <td>2x</td> <td>45</td> <td>0.9x</td> <td>relo_t_2</td> <td>relo_r_2</td> </tr> <tr> <td>3x</td> <td>55</td> <td>0.88x</td> <td>relo_t_3</td> <td>relo_r_3</td> </tr> <tr> <td>4x</td> <td>70</td> <td>0.85x</td> <td>relo_t_4</td> <td>relo_r_4</td> </tr> <tr> <td>5x</td> <td>100</td> <td>0.8x</td> <td>relo_t_5</td> <td>relo_r_5</td> </tr> </tbody> </table>",
       "reload_stat":[10, 45 , 55  , 70  , 100],
-      "reload_muti":[1 , 0.9, 0.88, 0.85, 0.8]
+      "reload_multi":[1 , 0.9, 0.88, 0.85, 0.8]
    },
    "Field Prep -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
       "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"

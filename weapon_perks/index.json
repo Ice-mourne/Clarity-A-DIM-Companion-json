@@ -2,6 +2,11 @@
     "Air Assault":{
        "text":"<div class='new_pd'>Gain 20 handling while airborne.</div>"
     },
+    "Alloy Magazine":{
+      "text": "<div class='new_pd'>0.85 Reload scale then magazine is empty<br>-xxx reload time</div>",
+      "m_num": [0.85],
+      "--------------------------------------------------------------------------------------------------": "fix reload"
+    },
     "Ambitious Assassin":{
        "text":"<div class='new_pd'>Increases magazine capacity by 10% per kill, maximizes at 50%.</div>"
     },
@@ -60,13 +65,13 @@
        "text":"<div class='new_pd'>Precision Kills explode the target<br>Dealing the Weapon's Elemental Damage over<br>3 meter radius.<br>Damage is not increased by Weapon Perks.</div> <div class='new_pd'>Dragonfly Spec grants 50% more damage and radius.</div>"
     },
     "Dual Loader -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Dynamic Sway Reduction":{
        "text":"<div class='new_pd'>Greatly reduces inaccuracy after firing for 1 second.<br>Adds 9 Stability over time.</div>"
     },
     "Elemental Capacitor -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Explosive Payload":{
        "text":"<div class='new_pd'>Splits 50% of damage<br>Into explosive damage with no fall off.</div> <div class='new_pd'>Increases Damage.<br>PvE 11% Precision 15% Body.<br>PvP Total damage remains (almost) the same.</div>"
@@ -83,7 +88,7 @@
        "m_num":[1, 0.9, 0.88, 0.85, 0.8]
     },
     "Field Prep -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Firing Line":{
        "text":"<div class='new_pd'>Being near 2+ Guardians / Friendly AI:<br>Increases Precision Damage:<br>After scoping in for 1.5s without firing:</div>  <style> tr:nth-child(even) {background:#222;} td, th{padding-top: 1px; padding-bottom: 5px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse;'> <tbody><tr> <th>Weapon</th> <th>Damage</th> </tr> <tr> <td>Linear Fusion</td> <td>25%</td> </tr> <tr> <td>Sniper</td> <td>25%</td> </tr> <tr> <td>Machine Gun</td> <td>20%</td> </tr> </tbody></table>"
@@ -95,7 +100,7 @@
        "text":"<div class='new_pd'>Landing 4 Precision Hits up to 2.5s between shots<br>Generate 2 bullets to the magazine.</div>"
     },
     "Frenzy -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Full Auto Trigger System":{
        "text":"<div class='new_pd'>Makes Weapon fire at Full Auto.<br>10% Faster Fire Rate on Shotguns.</div>"
@@ -122,16 +127,16 @@
        "text":"<div class='new_pd'>10% Increased Impact Damage</div>"
     },
     "Impulse Amplifier -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Iron Gaze -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Iron Grip -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Iron Reach -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Kickstart":{
        "text":"<div class='new_pd'>20% increased Damage<br>100ms faster Charge Rate<br>During a slide, after sprinting for 1.5 second.</div>"
@@ -176,7 +181,7 @@
        "text":"<div class='new_pd'>Using your Grenade Ability changes the weapon damage type to match selected subclass until stow.</div>"
     },
     "Outlaw -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Overflow":{
        "text":"<div class='new_pd'>Refills magazine to double capacity on<br>Special / Power Ammo pickup.</div>"
@@ -204,7 +209,7 @@
        "text":"<div class='new_pd'>On Matching Elemental Shield Break:<br>Explosion disorients enemies<br>Within 7 meters for 5 seconds</div>"
     },
     "Slideshot -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Slideways":{
        "text":"<div class='new_pd'>On Slide:<br>Reloads 15% of magazine<br>20 Stability 25 Handling<br>Lasts 3s.</div>"
@@ -222,10 +227,10 @@
        "text":"<div class='new_pd'>Refreshes 10-17% of Magazine per kill.</div>"
     },
     "Surplus -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+       "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Surrounded -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Swashbuckler":{
        "text":"<div class='new_pd'>Weapon and Melee Kills increase Damage for 4.5s:</div> <style> td, th{padding-top: 1px; padding-bottom: 3px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse;'> <tbody><tr> <th>1x</th> <th style='background:#222;'>2x</th> <th>3x</th> <th style='background:#222;'>4x</th> <th>5x</th> </tr> <tr> <td>5%</td> <td style='background:#222;'>12%</td> <td>19%</td> <td style='background:#222;'>26%</td> <td>30%</td> </tr> </tbody></table> <div class='new_pd'>Melee Kills instantly max out stacks</div>"
@@ -237,7 +242,7 @@
        "text":"<div class='new_pd'>Grants 25 Stability and 10% higher Accuracy for 0.6s.<br>Refreshes immediately after not firing.</div> <div class='new_pd'>Hair Trigger on Controller</div>"
     },
     "Threat Detector -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Thresh":{
        "text":"<div class='new_pd'>Kills generate more Super Energy</div> <table class='new_pd' style='border-spacing: 7px 2px;'> <tbody> <tr> <th></th> <th>PvE</th> <th>PvP</th> </tr> <tr> <td>Special</td> <td>+1.5%</td> <td>+1%</td> </tr> <tr> <td>Primary<br>Heavy</td> <td>+1%</td> <td>+1%</td> </tr> </tbody> </table>"
@@ -255,7 +260,7 @@
        "text":"<div class='new_pd'>As magazine goes below 50% until empty.<br>25% to 50% increased Accuracy and up to 20 stability.</div>"
     },
     "Underdog -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-       "text":""
+      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
     },
     "Unrelenting":{
        "text":"<div class='new_pd'>Starts Health Regeneration and heals for 30 HP after obtaining 3 points.</div> <style> tr:nth-child(even) {background:#222;} td, th{padding-top: 1px; padding-bottom: 3px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse;'> <tbody><tr> <th>Points</th> <th>Enemy</th> </tr> <tr> <td>1</td> <td>Rank-And-File</td> </tr> <tr> <td>2</td> <td>Elites / Guardians</td> </tr> <tr> <td>3</td> <td>Minibosses / Bosses</td> </tr> </tbody></table> <div class='new_pd'>Kills must be within 8 seconds of each.</div>"

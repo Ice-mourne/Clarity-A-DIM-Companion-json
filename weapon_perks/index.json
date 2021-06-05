@@ -147,7 +147,10 @@
       "text":"<div class='new_pd'>Reloading after a Kill increases Damage by:<br>33% Precision<br> 30% Body</div>"
    },
    "Killing Wind":{
-      "text":"<div class='new_pd'>On Kill:<br>20 Range, 50 Mobility, 40 Handling.<br>Lasts 6 seconds and is refreshed on kill.</div>"
+      "text":"<div class='new_pd'>On Kill:<br>20 Range (range_0), 50 Mobility, 40 Handling.<br>Lasts 6 seconds and is refreshed on kill.</div>",
+      "zoom_mult": [1],
+      "zoom": [0],
+      "range_stat": [20]
    },
    "Lasting Impression":{
       "text":"<div class='new_pd'>Rockets attach on impact<br>And detonate after 3 seconds<br>Dealing 20% increased Explosive Damage.</div>"
@@ -198,7 +201,7 @@
       "text":"<div class='new_pd'>Kills increase Damage for 3.5s</div> <table class='new_pd' style='border-spacing: 7px 2px; margin-top: 0px;'> <tbody> <tr> <th>1x</th> <th>2x</th> <th>3x</th> </tr> <tr> <td>10%</td> <td>21%</td> <td>33%</td> </tr> <tr> </tr> </tbody> </table> <div class='new_pd' style='margin-top: 0px;'>Rampage Spec Mod increases Duration to 4.5s</div>"
    },
    "Rangefinder":{
-      "text":"<div class='new_pd'>Whyle Aiming down sights:<br>+10% zoom and range (range_0)</div>",
+      "text":"<div class='new_pd'>Whyle Aiming down sights:<br>+10% zoom and range (range_0)<br>Fall-off ADS in stats above includes Rangefinder</div>",
       "zoom_mult": [1.1],
       "zoom": [0],
       "range_stat": [0]

@@ -197,7 +197,7 @@
    "Rampage":{
       "text":"<div class='new_pd'>Kills increase Damage for 3.5s</div> <table class='new_pd' style='border-spacing: 7px 2px; margin-top: 0px;'> <tbody> <tr> <th>1x</th> <th>2x</th> <th>3x</th> </tr> <tr> <td>10%</td> <td>21%</td> <td>33%</td> </tr> <tr> </tr> </tbody> </table> <div class='new_pd' style='margin-top: 0px;'>Rampage Spec Mod increases Duration to 4.5s</div>"
    },
-   "Rangefinder -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
+   "Rangefinder":{
       "text":"<div class='new_pd'>Whyle Aiming down sights:<br>+10% zoom and range (range_1)</div>",
       "zoom_mult": [1.1],
       "zoom": [0],

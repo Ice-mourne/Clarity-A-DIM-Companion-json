@@ -185,8 +185,10 @@
    "Osmosis":{
       "text":"<div class='new_pd'>Using your Grenade Ability changes the weapon damage type to match selected subclass until stow.</div>"
    },
-   "Outlaw -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Outlaw":{
+      "text":"<div class='new_pd'>On Precision Kill:<br>63 Reload Speed with 0.9x Multiplier<br>relo_t_0 reload time reduced by relo_r_0<br>for 6 seconds.</div>",
+      "reload_stat": [63],
+      "reload_multi":[0.9]
    },
    "Overflow":{
       "text":"<div class='new_pd'>Refills magazine to double capacity on<br>Special / Power Ammo pickup.</div>"
@@ -236,23 +238,27 @@
    "Subsistence":{
       "text":"<div class='new_pd'>Refreshes 10-17% of Magazine per kill.</div>"
    },
-   "Surplus -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Surplus":{
+      "text":"<div class='new_pd'>Grants Stats depending on the amount of charged abilities.</div> <style> .surplus tr:nth-child(even) {background:#222;} .surplus td, .surplus th{padding-top: 2px; padding-bottom: 4px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd surplus' style='border-collapse:collapse;'> <tbody> <tr> <th></th> <th>1x</th> <th>2x</th> <th>3x</th> </tr> <tr> <td>Reload Speed</td> <td>5</td> <td>22</td> <td>50</td> </tr> <tr> <td>Reload time</td> <td>relo_t_0</td> <td>relo_t_1</td> <td>relo_t_2</td> </tr> <tr> <td>Time reduced by</td> <td>relo_r_0</td> <td>relo_r_1</td> <td>relo_r_2</td> </tr> <tr> <td>Stability</td> <td>X</td> <td>Y</td> <td>Z</td> </tr> <tr> <td>Handling</td> <td>10</td> <td>25</td> <td>50</td> </tr> </tbody> </table>",
+      "reload_stat": [5, 22, 50],
+      "reload_multi":[1, 1 , 1]
    },
    "Surrounded -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
       "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
    },
    "Swashbuckler":{
-      "text":"<div class='new_pd'>Weapon and Melee Kills increase Damage for 4.5s:</div> <style> td, th{padding-top: 1px; padding-bottom: 3px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse;'> <tbody><tr> <th>1x</th> <th style='background:#222;'>2x</th> <th>3x</th> <th style='background:#222;'>4x</th> <th>5x</th> </tr> <tr> <td>5%</td> <td style='background:#222;'>12%</td> <td>19%</td> <td style='background:#222;'>26%</td> <td>30%</td> </tr> </tbody></table> <div class='new_pd'>Melee Kills instantly max out stacks</div>"
+      "text":"<div class='new_pd'>Weapon and Melee Kills increase Damage for 4.5s:</div> <style> td, th{padding-top: 1px; padding-bottom: 3px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse; margin-left: auto;margin-right: auto;width: 80%;text-align: center;'> <tbody><tr> <th>1x</th> <th style='background:#222;'>2x</th> <th>3x</th> <th style='background:#222;'>4x</th> <th>5x</th> </tr> <tr> <td>5%</td> <td style='background:#222;'>12%</td> <td>19%</td> <td style='background:#222;'>26%</td> <td>30%</td> </tr> </tbody></table> <div class='new_pd'>Melee Kills instantly max out stacks</div>"
    },
    "Sympathetic Arsenal":{
       "text":"<div class='new_pd'>Reloading up to 6s after a Kill also reloads stowed weapons.</div>"
    },
-   "Tap The Trigger":{
+   "Tap the Trigger":{
       "text":"<div class='new_pd'>Grants 25 Stability and 10% higher Accuracy for 0.6s.<br>Refreshes immediately after not firing.</div> <div class='new_pd'>Hair Trigger on Controller</div>"
    },
-   "Threat Detector -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Threat Detector":{
+      "text":"<div class='new_pd'>If within 15 meters of X enemys:</div> <style> tr:nth-child(even) {background:#222;} td, th{padding-top: 1px; padding-bottom: 5px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse;'> <tbody> <tr> <th></th> <th>1X</th> <th>2+X</th> </tr> <tr> <td>Stability</td> <td>15</td> <td>40</td> </tr> <tr> <td>Reload</td> <td>15</td> <td>55</td> </tr> <tr> <td>Reload Time</td> <td>relo_t_0</td> <td>relo_t_1</td> </tr> <tr> <td>Time Reduced by</td> <td>relo_r_0</td> <td>relo_r_1</td> </tr> <tr> <td>Handling<br>Animation Speed</td> <td>25%</td> <td>43%</td> </tr> </tbody> </table>",
+      "reload_stat": [15, 55],
+      "reload_multi":[1 , 1]
    },
    "Thresh":{
       "text":"<div class='new_pd'>Kills generate more Super Energy</div> <table class='new_pd' style='border-spacing: 7px 2px;'> <tbody> <tr> <th></th> <th>PvE</th> <th>PvP</th> </tr> <tr> <td>Special</td> <td>+1.5%</td> <td>+1%</td> </tr> <tr> <td>Primary<br>Heavy</td> <td>+1%</td> <td>+1%</td> </tr> </tbody> </table>"

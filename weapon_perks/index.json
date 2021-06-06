@@ -1,21 +1,33 @@
 {
+   "Adaptive Ordnance":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Adrenaline Junkie":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Air Assault":{
       "text":"<div class='new_pd'>Gain 20 handling while airborne.</div>"
    },
    "Alloy Magazine":{
-      "text": "<div class='new_pd'>0.85x Reload scale then magazine is empty<br>relo_t_0 reload time reduced by relo_r_0</div>",
-      "reload_stat":[0],
+      "text":"<div class='new_pd'>0.85x Reload scale then magazine is empty<br>relo_t_0 reload time reduced by relo_r_0</div>",
+      "reload_stat": [0   ],
       "reload_multi":[0.85],
-      "--------------------------------------------------------------------------------------------------": "fix reload"
+      "--------------------------------------------------------------------------------------------------":"fix reload"
    },
    "Ambitious Assassin":{
       "text":"<div class='new_pd'>Increases magazine capacity by 10% per kill, maximizes at 50%.</div>"
+   },
+   "Archer's Gambit":{
+      "text":"<div class='new_pd'>Gain 20 handling while airborne.</div>"
    },
    "Archer's Tempo":{
       "text":"<div class='new_pd'>On Precision Hit:<br>Sets drawtime to 440ms for 3 seconds.</div>"
    },
    "Armor-Piercing Rounds":{
       "text":"<div class='new_pd'>Rounds cause 5% extra damage to combatants shields and overpenetrate targets.</div>"
+   },
+   "Armor of the Colossus":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Assassin's Blade":{
       "text":"<div class='new_pd'>Kills increase Damage by 15%<br>And Sprint Speed by 13% for 5s</div>"
@@ -26,6 +38,15 @@
    "Backup Plan":{
       "text":"<div class='new_pd'>Sets impact to 55 Rapid-Fire Fusion Rifle archetype.<br>Sets charge time to 460ms.<br>100 Handling when readied for 4 seconds.</div>"
    },
+   "Base Frame":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Blessing of the Sky":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Bottomless Appetite":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Bottomless Grief":{
       "text":"<div class='new_pd'>If Last Guardian Standing:<br>Kills reload Magazine.</div>"
    },
@@ -33,10 +54,28 @@
       "text":"<style> .Celerity tr:nth-child(even) { background:#222; } .Celerity td, .Celerity th{ padding-top: 1px; padding-bottom: 4px; padding-right: 7px; padding-left: 7px; } </style> <div class='new_pd'>After scoping in for 1.5s without firing:</div> <table class='new_pd Celerity' style='border-collapse:collapse;'> <tbody> <tr> <th></th> <th>Precision <br>Damage</th> <th>Accuracy</th> <th>Range</th> </tr> <tr> <td>Snipers <br>Aggressive</td> <td>37%</td> <td>X</td> <td>Y</td> </tr> <tr> <td>Snipers <br>Rapid-Fire, <br>Adaptive</td> <td>31%</td> <td>X</td> <td>Y</td> </tr> <tr> <td>Linear Fusion</td> <td>33%</td> <td>X</td> <td>Y</td> </tr> <tr> <td>Scout Rifles</td> <td>66%</td> <td>X</td> <td>Y</td> </tr> </tbody> </table>",
       "----------------------------------------------------------------------------":""
    },
+   "Break the Bank":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Breakthrough":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Broadhead":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Broadside":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Business Time":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Causality Arrows":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Celerity":{
       "text":"<div class='new_pd'>If Last Guardian Standing: Decrease flinch received<br>Increased accuracy, Stronger scope highlight<br>Enables radar while ADS</div> <table class='new_pd' style='border-spacing: 7px 0px; margin-top: -5px;'> <tbody> <tr> <th></th> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th>Handling</th> <th>Aim Assist</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>100</td> <td>100</td> <td>100</td> <td>reload_time_1</td> <td>reload_stat_2</td> </tr> </tbody> </table> <div class='new_pd'>Passive:</div> <table class='new_pd' style='border-spacing: 7px 0px; margin-top: -7px;'> <tbody> <tr> <td></td> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th>Handling</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>18</td> <td>18</td> <td>reload_time_3</td> <td>reload_stat_4</td> </tr> </tbody> </table>",
-      "reload_stat":[100, 18],
-      "reload_multi":[1  , 1 ],
+      "reload_stat": [100, 18],
+      "reload_multi":[1,   1 ],
       "----------------------------------------------------------------------------":""
    },
    "Chain Reaction":{
@@ -48,8 +87,23 @@
    "Cluster Bomb":{
       "text":"<div class='new_pd'>Rockets generate 8 additional Cluster Bombs on detonation.<br>Each bomb deals about 3% additional damage.</div>"
    },
+   "Cornered":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Cosmology":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Counterattack":{
       "text":"<div class='new_pd'>Blocking an attack immediately after Guarding increases Damage by 50% for 2s.</div>"
+   },
+   "Cruel Remedy":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Danger Zone":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Dark Descent":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Death at First Glance":{
       "text":"<div class='new_pd'>First shot while ADS deals 33% increased Damage.<br>Bonus is Preserved:<br>On Precision / Elemental Shields Hits.<br>If lost, buff is regained after 3 seconds of not firing.</div>"
@@ -66,14 +120,29 @@
    "Dragonfly":{
       "text":"<div class='new_pd'>Precision Kills explode the target<br>Dealing the Weapon's Elemental Damage over<br>3 meter radius.<br>Damage is not increased by Weapon Perks.</div> <div class='new_pd'>Dragonfly Spec grants 50% more damage and radius.</div>"
    },
-   "Dual Loader -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Dual Loader":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Dual Speed Receiver":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Dynamic Charge":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Dynamic Sway Reduction":{
       "text":"<div class='new_pd'>Greatly reduces inaccuracy after firing for 1 second.<br>Adds 9 Stability over time.</div>"
    },
-   "Elemental Capacitor -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Elemental Capacitor":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "En Garde":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Energy Transfer":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Evolution":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Explosive Payload":{
       "text":"<div class='new_pd'>Splits 50% of damage<br>Into explosive damage with no fall off.</div> <div class='new_pd'>Increases Damage.<br>PvE 11% Precision 15% Body.<br>PvP Total damage remains (almost) the same.</div>"
@@ -81,16 +150,22 @@
    "Explosive Head":{
       "text":"<div class='new_pd'>Splits 55% of damage<br>Into explosive damage with no fall off.<br>Detonates after 0.6 seconds.</div> <div class='new_pd'>Increases Damage.<br>PvE 12% Precision 16% Body.<br>PvP Total damage remains (almost) the same.</div>"
    },
-   "Eye of the Storm -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
+   "Explosive Light":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Eye of the Storm":{
       "text":"data incomplete not adding for now"
    },
    "Feeding Frenzy":{
       "text":"<div class='new_pd'>Kills increase Reload Speed for 3.5 seconds. Refreshes on kill.</div> <style> .feeding_frenzy tr:nth-child(even) {background:#222;} .feeding_frenzy td, .feeding_frenzy th{padding-top: 3px;padding-bottom: 3px;padding-right: 7px;padding-left: 7px;} </style> <table class='new_pd feeding_frenzy' style='border-collapse:collapse; width: 100%;'> <tbody> <tr> <th></th> <th>Stat</th> <th>Multiplier</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>1x</td> <td>10</td> <td>-</td> <td>relo_t_0</td> <td>relo_r_0</td> </tr> <tr> <td>2x</td> <td>45</td> <td>0.9x</td> <td>relo_t_1</td> <td>relo_r_1</td> </tr> <tr> <td>3x</td> <td>55</td> <td>0.88x</td> <td>relo_t_2</td> <td>relo_r_2</td> </tr> <tr> <td>4x</td> <td>70</td> <td>0.85x</td> <td>relo_t_3</td> <td>relo_r_3</td> </tr> <tr> <td>5x</td> <td>100</td> <td>0.8x</td> <td>relo_t_4</td> <td>relo_r_4</td> </tr> </tbody> </table>",
-      "reload_stat": [10, 45 , 55  , 70  , 100],
-      "reload_multi":[1 , 0.9, 0.88, 0.85, 0.8]
+      "reload_stat": [10, 45,  55,   70,   100],
+      "reload_multi":[1,  0.9, 0.88, 0.85, 0.8]
    },
-   "Field Prep -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Field Prep":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Firefly":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Firing Line":{
       "text":"<div class='new_pd'>Being near 2+ Guardians / Friendly AI:<br>Increases Precision Damage:<br>After scoping in for 1.5s without firing:</div>  <style> tr:nth-child(even) {background:#222;} td, th{padding-top: 1px; padding-bottom: 5px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse;'> <tbody><tr> <th>Weapon</th> <th>Damage</th> </tr> <tr> <td>Linear Fusion</td> <td>25%</td> </tr> <tr> <td>Sniper</td> <td>25%</td> </tr> <tr> <td>Machine Gun</td> <td>20%</td> </tr> </tbody></table>"
@@ -98,11 +173,29 @@
    "Firmly Planted":{
       "text":"<div class='new_pd'>If crouched:<br>Recoil becomes (almost) entirely vertical<br>Heavily increases accuracy<br>Grants 35 Handling and 35 Stability.</div>"
    },
+   "Fistfuls of Bullets":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Flame Refraction":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Flash Counter":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Flash Freeze":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Flourish":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "For the Empire":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Fourth Time's the Charm":{
       "text":"<div class='new_pd'>Landing 4 Precision Hits up to 2.5s between shots<br>Generate 2 bullets to the magazine.</div>"
    },
-   "Frenzy -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Frenzy":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Full Auto Trigger System":{
       "text":"<div class='new_pd'>Makes Weapon fire at Full Auto.<br>10% Faster Fire Rate on Shotguns.</div>"
@@ -113,11 +206,32 @@
    "Genesis":{
       "text":"<div class='new_pd'>On Elemental or Barrier Champion's Shield break:<br>Reloads magazine.<br>Energy Weapons generate:<br>1 ammo per hit against Matching Elemental Shields</div>"
    },
+   "Gift of the Traveler":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Grave Robber":{
       "text":"<div class='new_pd'>On Melee Kill:<br>Primary Weapons:<br>Generate ammo to magazine.</div> <div class='new_pd'>Special and Power Weapons:<br>Get ammo to magazine from reserves.</div>"
    },
+   "Grenades and Horseshoes":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Hailstorm":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Harbinger's Pulse":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Headseeker":{
       "text":"<div class='new_pd'>Headshots mid burst after hitting at least one bodyshot:<br>Receive 8% increased Precision Damage</div>"
+   },
+   "Heat Sink":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Heating Up":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "High Noon":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "High-Impact Reserves":{
       "text":"<div class='new_pd'>Gradual Damage increase<br>Starting at 50% of magazine left</div> <table class='new_pd' style='border-spacing: 7px 2px;'> <tbody><tr> <th></th> <th>From</th> <th>To</th> </tr> <tr> <td>PvE</td> <td>12%</td> <td>26%</td> </tr> <tr> <td>PvP</td> <td>4%</td> <td>6%</td> </tr> </tbody></table>"
@@ -125,20 +239,26 @@
    "Hip-Fire Grip":{
       "text":"<div class='new_pd'>If hipfiring:</div> <table class='new_pd' style='border-spacing: 7px 2px;'> <tbody><tr> <td>1.2x</td> <td>Aim Assist Falloff</td> </tr> <tr> <td>15</td> <td>Aim Assist</td> </tr> <tr> <td>+1.7</td> <td>degrees precision angle threshold</td> </tr> <tr> <td>30%</td> <td>higher accuracy</td> </tr> <tr> <td>30</td> <td>Stability</td> </tr> </tbody></table>"
    },
+   "Impetus":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Impact Casing":{
       "text":"<div class='new_pd'>10% Increased Impact Damage</div>"
    },
-   "Impulse Amplifier -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Impulse Amplifier":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
-   "Iron Gaze -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Ionic Return":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
-   "Iron Grip -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Iron Gaze":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
-   "Iron Reach -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Iron Grip":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Iron Reach":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Kickstart":{
       "text":"<div class='new_pd'>20% increased Damage<br>100ms faster Charge Rate<br>During a slide, after sprinting for 1.5 second.</div>"
@@ -146,11 +266,17 @@
    "Kill Clip":{
       "text":"<div class='new_pd'>Reloading after a Kill increases Damage by:<br>33% Precision<br> 30% Body</div>"
    },
+   "Killing Tally":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Killing Wind":{
       "text":"<div class='new_pd'>On Kill:<br>20 Range (range_0), 50 Mobility, 40 Handling.<br>Lasts 6 seconds and is refreshed on kill.</div>",
-      "zoom_mult": [1],
-      "zoom": [0],
-      "range_stat": [20]
+      "zoom_mult": [1 ],
+      "zoom":      [0 ],
+      "range_stat":[20]
+   },
+   "Last Stand":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Lasting Impression":{
       "text":"<div class='new_pd'>Rockets attach on impact<br>And detonate after 3 seconds<br>Dealing 20% increased Explosive Damage.</div>"
@@ -158,8 +284,50 @@
    "Lead from Gold":{
       "text":"<div class='new_pd'>On Power Ammo Pickup:<br>Grants the equivalent of 1 Special Ammo Pickup.</div>"
    },
-   "Markov Chain -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"??? for some reason didn't have anything"
+   "Leviathan's Sigh":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Lightning Rod":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Lightning Rounds":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Liquid Cooling":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Long March":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Longest Winter":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Magnificent Howl":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Markov Chain":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Master of Arms":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Mechanized Autoloader":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Meganeura":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Micro-Missile":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "MIDA Radar":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "MIDA Synergy":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Mobility Enhancement Mod":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Moving Target":{
       "text":"<div class='new_pd'>Passively grants 10 Aim Assist.<br>3% Reduced Movement Speed Penalty<br>From ADS and Strafing</div>"
@@ -173,11 +341,20 @@
    "No Distractions":{
       "text":"<div class='new_pd'>After being scoped for 1 second without firing:<br>Strongly reduced flinch.</div>"
    },
+   "On Black Wings":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Once More":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "One for All":{
       "text":"<div class='new_pd'>Hitting 3 Separate Combatants within 3s of each other increases Damage by 35% for 10s</div>"
    },
    "One-Two Punch":{
       "text":"<div class='new_pd'>Hitting an enemy with every pellet of a shot increases Melee Damage<br>200% to Minors &amp; Elites<br>350% to Minibosses and Bosses<br>Bonus is reduced to 80% with Liar's Handshake</div>"
+   },
+   "Onslaught":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Opening Shot":{
       "text":"<div class='new_pd'>5-12% Increased Fall off Distance<br>25% higher Accuracy<br>On the first shot.<br>3.1 second cooldown after not firing.</div>"
@@ -187,41 +364,90 @@
    },
    "Outlaw":{
       "text":"<div class='new_pd'>On Precision Kill:<br>63 Reload Speed with 0.9x Multiplier<br>relo_t_0 reload time reduced by relo_r_0<br>for 6 seconds.</div>",
-      "reload_stat": [63],
+      "reload_stat": [63 ],
       "reload_multi":[0.9]
    },
    "Overflow":{
       "text":"<div class='new_pd'>Refills magazine to double capacity on<br>Special / Power Ammo pickup.</div>"
    },
+   "Parasitism":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Penance":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Plasteel Reinforcement Mod":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Play with Your Prey":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Pulse Monitor":{
       "text":"<div class='new_pd'>On Critical Health:<br>Reloads weapon (Held or Stowed)<br>45 Handling<br>5% Faster Swap Speed.</div>"
    },
-   "Quickdraw -------------------------------------------------------------------------------------------------------------------------------------------------------------- then dose it Grants 100 Handling for 1s":{
-      "text":"<div class='new_pd'>Grants 100 Handling for 1s, or until ADS</div>"
+   "Pyrogenesis":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Quickdraw":{
+      "text":"<div class='new_pd'>Grants 100 Handling for 1s, or until ADS</div>",
+      "-------------------------------------------------------------------------":"incomplete"
    },
    "Rampage":{
       "text":"<div class='new_pd'>Kills increase Damage for 3.5s</div> <table class='new_pd' style='border-spacing: 7px 2px; margin-top: 0px;'> <tbody> <tr> <th>1x</th> <th>2x</th> <th>3x</th> </tr> <tr> <td>10%</td> <td>21%</td> <td>33%</td> </tr> <tr> </tr> </tbody> </table> <div class='new_pd' style='margin-top: 0px;'>Rampage Spec Mod increases Duration to 4.5s</div>"
    },
    "Rangefinder":{
       "text":"<div class='new_pd'>While Aiming down sights:<br>+10% zoom (range_0)<br>+5% Projectile Speed <br>Fall-off ADS in stats above includes Rangefinder</div>",
-      "text_fallback": "<div class='new_pd'>While Aiming down sights:<br>+10% zoom<br>+5% Projectile Speed</div>",
+      "text_fallback":"<div class='new_pd'>While Aiming down sights:<br>+10% zoom<br>+5% Projectile Speed</div>",
       "zoom_mult": [1.1],
-      "zoom": [0],
-      "range_stat": [0]
+      "zoom":      [0  ],
+      "range_stat":[0  ]
    },
    "Rapid Hit":{
       "text":"<div class='new_pd'>Precision hits build Rapid Hit stacks, granting:</div> <style> .rapid_hit tr:nth-child(odd) {background:#222;} .rapid_hit td, .rapid_hit th{padding-top: 3px;padding-bottom: 3px;padding-right: 7px;padding-left: 7px;} </style> <table class='new_pd rapid_hit' style='border-collapse:collapse;width: 100%;'> <tbody> <tr style='background: none;'> <th></th> <th></th> <th colspan='3'>Reload</th> </tr> <tr> <th></th> <th>Stability</th> <th>Stat</th> <th>Time</th> <th>Reduction</th> </tr> <tr> <td>1x</td> <td>5</td> <td>10</td> <td>relo_t_0</td> <td>relo_r_0</td> </tr> <tr> <td>2x</td> <td>10</td> <td>27</td> <td>relo_t_1</td> <td>relo_r_1</td> </tr> <tr> <td>3x</td> <td>10</td> <td>32</td> <td>relo_t_2</td> <td>relo_r_2</td> </tr> <tr> <td>4x</td> <td>20</td> <td>40</td> <td>relo_t_3</td> <td>relo_r_3</td> </tr> <tr> <td>5x</td> <td>23</td> <td>54</td> <td>relo_t_4</td> <td>relo_r_4</td> </tr> </tbody> </table> <div class='new_pd'>for 2 seconds.</div>",
       "reload_stat": [10, 27, 32, 40, 54],
-      "reload_multi":[1 , 1 , 1 , 1 , 1 ]
+      "reload_multi":[1,  1,  1,  1,  1 ]
+   },
+   "Recombination":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Reconstruction":{
       "text":"<div class='new_pd'>After not shooting for 4 seconds:<br>Reloads 10% of base magazine<br>Maxes out at double magazine size.</div>"
    },
+   "Redirection":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Release the Wolves":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Relentless Strikes":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Reservoir Burst":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Restorative Mod":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Reversal of Fortune":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Revved Consumption":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Rewind Rounds":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Serve the Colony":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Shattering Blade":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Shield Disorient":{
       "text":"<div class='new_pd'>On Matching Elemental Shield Break:<br>Explosion disorients enemies<br>Within 7 meters for 5 seconds</div>"
    },
-   "Slideshot -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Slideshot":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Slideways":{
       "text":"<div class='new_pd'>On Slide:<br>Reloads 15% of magazine<br>20 Stability 25 Handling<br>Lasts 3s.</div>"
@@ -232,19 +458,43 @@
    "Sneak Bow":{
       "text":"<div class='new_pd'>Prevents ping on radar after shooting while crouched.<br>Increases hold time by 25%</div>"
    },
+   "Soul Devourer":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Spinning Up":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Spread Shot Package":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Spike Grenades":{
       "text":"<div class='new_pd'>Increase Impact Damage by 50%.</div>"
+   },
+   "Storm and Stress":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Stormbringer":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Subsistence":{
       "text":"<div class='new_pd'>Refreshes 10-17% of Magazine per kill.</div>"
    },
+   "Sun Blast":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Supercharged Battery":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Superconductor":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Surplus":{
       "text":"<div class='new_pd'>Grants Stats depending on the amount of charged abilities.</div> <style> .surplus tr:nth-child(odd) {background:#222;} .surplus td, .surplus th{padding-top: 2px; padding-bottom: 4px; padding-right: 5px; padding-left: 5px;}</style> <table class='new_pd surplus' style='border-collapse:collapse; width: 100%; margin-top:-10px'> <tbody> <tr style='background:none;'> <th></th> <th colspan='3' style='padding-bottom: 0px'>Reload</th> <th></th> <th></th> </tr> <tr> <th></th> <th>Speed</th> <th>Time</th> <th>Reduction</th> <th>Stability</th> <th>Handling<br>Speed</th> </tr> <tr> <td>1x</td> <td>15</td> <td>relo_t_0</td> <td>relo_r_0</td> <td>15</td> <td>25%</td> </tr> <tr> <td>2x</td> <td>55</td> <td>relo_t_1</td> <td>relo_r_1</td> <td>40</td> <td>43%</td> </tr> </tbody> </table>",
       "reload_stat": [5, 22, 50],
-      "reload_multi":[1, 1 , 1]
+      "reload_multi":[1, 1,  1 ]
    },
-   "Surrounded -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Surrounded":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Swashbuckler":{
       "text":"<div class='new_pd'>Weapon and Melee Kills increase Damage for 4.5s:</div> <style> td, th{padding-top: 1px; padding-bottom: 3px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse; margin-left: auto;margin-right: auto;width: 80%;text-align: center;'> <tbody><tr> <th>1x</th> <th style='background:#222;'>2x</th> <th>3x</th> <th style='background:#222;'>4x</th> <th>5x</th> </tr> <tr> <td>5%</td> <td style='background:#222;'>12%</td> <td>19%</td> <td style='background:#222;'>26%</td> <td>30%</td> </tr> </tbody></table> <div class='new_pd'>Melee Kills instantly max out stacks</div>"
@@ -252,19 +502,52 @@
    "Sympathetic Arsenal":{
       "text":"<div class='new_pd'>Reloading up to 6s after a Kill also reloads stowed weapons.</div>"
    },
+   "Taken Predator":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Tap the Trigger":{
       "text":"<div class='new_pd'>Grants 25 Stability and 10% higher Accuracy for 0.6s.<br>Refreshes immediately after not firing.</div> <div class='new_pd'>Hair Trigger on Controller</div>"
    },
+   "Target Acquired":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Temporal Unlimiter":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "The Fundamentals":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "The Roadborn":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "The Scientific Method":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Thin the Herd":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Threat Detector":{
       "text":"<div class='new_pd'>If within 15 meters of X enemys:</div> <style> tr:nth-child(even) {background:#222;} td, th{padding-top: 1px; padding-bottom: 5px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse;'> <tbody> <tr> <th></th> <th>1X</th> <th>2+X</th> </tr> <tr> <td>Stability</td> <td>15</td> <td>40</td> </tr> <tr> <td>Reload</td> <td>15</td> <td>55</td> </tr> <tr> <td>Reload Time</td> <td>relo_t_0</td> <td>relo_t_1</td> </tr> <tr> <td>Time Reduced by</td> <td>relo_r_0</td> <td>relo_r_1</td> </tr> <tr> <td>Handling<br>Animation Speed</td> <td>25%</td> <td>43%</td> </tr> </tbody> </table>",
-      "reload_stat": [15, 55],
-      "reload_multi":[1 , 1]
+      "reload_stat": [15,55],
+      "reload_multi":[1, 1 ]
    },
    "Thresh":{
       "text":"<div class='new_pd'>Kills generate more Super Energy</div> <table class='new_pd' style='border-spacing: 7px 2px;'> <tbody> <tr> <th></th> <th>PvE</th> <th>PvP</th> </tr> <tr> <td>Special</td> <td>+1.5%</td> <td>+1%</td> </tr> <tr> <td>Primary<br>Heavy</td> <td>+1%</td> <td>+1%</td> </tr> </tbody> </table>"
    },
+   "Time-Slip":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Timed Payload":{
       "text":"<div class='new_pd'>Splits 55% of damage<br>Into explosive damage with no fall off.<br>Detonates after 0.6 seconds.</div> <div class='new_pd'>Increases Damage.<br>PvE 12% Precision 16% Body.<br>PvP Total damage remains (almost) the same.</div>"
+   },
+   "Tireless Blade":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Together Forever":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Tracking Module":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Trench Barrel":{
       "text":"<div class='new_pd'>50% increased Damage for 5s or up to 3 shots after a Melee Hit</div>"
@@ -272,14 +555,23 @@
    "Triple Tap":{
       "text":"<div class='new_pd'>Landing 3 Precision Hits up to 2.5s between shots:<br>Generate 1 bullets to the magazine.</div>"
    },
+   "Tunnel Vision":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
    "Under Pressure":{
       "text":"<div class='new_pd'>As magazine goes below 50% until empty.<br>25% to 50% increased Accuracy and up to 20 stability.</div>"
    },
-   "Underdog -------------------------------------------------------------------------------------------------------------------------------------------------------------- ":{
-      "text":"<div class='new_pd'>Ping me with what I should put hare<br>If you see a missing perk aka you press and nothing happens also ping with suggestions for description</div>"
+   "Underdog":{
+      "text":"<div class='new_pd'>Add description</div>"
+   },
+   "Unforeseen Repercussions":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Unrelenting":{
       "text":"<div class='new_pd'>Starts Health Regeneration and heals for 30 HP after obtaining 3 points.</div> <style> .unrelenting tr:nth-child(even) {background:#222;} .unrelenting td, .unrelenting th{padding-top: 1px; padding-bottom: 3px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd unrelenting' style='border-collapse:collapse;'> <tbody><tr> <th>Points</th> <th>Enemy</th> </tr> <tr> <td>1</td> <td>Rank-And-File</td> </tr> <tr> <td>2</td> <td>Elites / Guardians</td> </tr> <tr> <td>3</td> <td>Minibosses / Bosses</td> </tr> </tbody></table> <div class='new_pd'>Kills must be within 8 seconds of each.</div>"
+   },
+   "Vermin":{
+      "text":"<div class='new_pd'>Add description</div>"
    },
    "Vorpal Weapon":{
       "text":"<div class='new_pd'>15% Weapon DMG increase to:<br>To Minibosses, Bosses, and Vehicles <br>High-tier Majors (triangle icon)<br>But NOT low-tier Majors (shield icon)</div> <div class='new_pd' style='margin-bottom: -7px;text-align: center;font-weight: bold;'>PvP</div> <style> tr:nth-child(even) {background:#222;} td, th{padding-top: 1px; padding-bottom: 5px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse;'> <tbody> <tr> <th>Weapon</th> <th>Super<br>0% resistence</th> <th>Super<br>50% resistence</th> </tr> <tr> <td>Primary</td> <td>20%</td> <td>50%</td> </tr> <tr> <td>Special</td> <td>10%</td> <td>20%</td> </tr> <tr> <td>Heavy</td> <td>10%</td> <td>20%</td> </tr> </tbody> </table> <div class='new_pd'>Supers can have more or less than 50% resistence</div>"

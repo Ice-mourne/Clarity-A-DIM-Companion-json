@@ -237,7 +237,7 @@
       "text":"<div class='new_pd'>Gradual Damage increase<br>Starting at 50% of magazine left</div> <table class='new_pd' style='border-spacing: 7px 2px;'> <tbody><tr> <th></th> <th>From</th> <th>To</th> </tr> <tr> <td>PvE</td> <td>12%</td> <td>26%</td> </tr> <tr> <td>PvP</td> <td>4%</td> <td>6%</td> </tr> </tbody></table>"
    },
    "Hip-Fire Grip":{
-      "text":"<div class='new_pd'>If hipfiring:</div> <table class='new_pd' style='border-spacing: 7px 2px;'> <tbody><tr> <td>1.2x</td> <td>Aim Assist Falloff</td> </tr> <tr> <td>15</td> <td>Aim Assist</td> </tr> <tr> <td>+1.7</td> <td>degrees precision angle threshold</td> </tr> <tr> <td>30%</td> <td>higher accuracy</td> </tr> <tr> <td>30</td> <td>Stability</td> </tr> </tbody></table>"
+      "text":"<div class='new_pd'>If hipfiring:</div> <table class='new_pd' style='border-spacing: 7px 0px;'> <tbody> <tr> <td>1.2x</td> <td>Aim Assist Falloff</td> </tr> <tr> <td>15</td> <td>Aim Assist</td> </tr> <tr> <td>+1.7</td> <td>degrees precision angle threshold</td> </tr> <tr> <td>30%</td> <td>higher accuracy</td> </tr> <tr> <td>30</td> <td>Stability</td> </tr> </tbody> </table>"
    },
    "Impetus":{
       "text":"<div class='new_pd'>Add description</div>"

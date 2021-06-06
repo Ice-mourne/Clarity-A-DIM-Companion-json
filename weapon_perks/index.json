@@ -58,7 +58,7 @@
       "text":"<div class='new_pd'>Add description</div>"
    },
    "Breakthrough":{
-      "text":"<div class='new_pd'>Add description</div>"
+      "text":"<div class='new_pd'>Shots staggers Unstoppable Champions</div>"
    },
    "Broadhead":{
       "text":"<div class='new_pd'>Add description</div>"
@@ -97,7 +97,7 @@
       "text":"<div class='new_pd'>Blocking an attack immediately after Guarding increases Damage by 50% for 2s.</div>"
    },
    "Cruel Remedy":{
-      "text":"<div class='new_pd'>Add description</div>"
+      "text":" <div class='new_pd'>On Kill: Heals 35 HP and begins Health Regeneration<br>Refills magazine on Precision Kill.</div>"
    },
    "Danger Zone":{
       "text":"<div class='new_pd'>Add description</div>"
@@ -306,7 +306,8 @@
       "text":"<div class='new_pd'>Add description</div>"
    },
    "Markov Chain":{
-      "text":"<div class='new_pd'>Add description</div>"
+      "text":" <div class='new_pd'>Weapon and Melee Kills increase Damage for 4.5s:</div> <style> .Markov_Chain tr:nth-child(even) {background:#222;} .Markov_Chain td, .Markov_Chain th{padding-top: 2px; padding-bottom: 3px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd Markov_Chain' style='border-collapse:collapse;'> <tbody> <tr> <th></th> <th>1x</th> <th>2x</th> <th>3x</th> <th>4x</th> <th>5x</th> </tr> <tr> <th>PvE</th> <td>13%</td> <td>26%</td> <td>39%</td> <td>52%</td> <td>65%</td> </tr> <tr> <th>PvP</th> <td>5%</td> <td>12%</td> <td>19%</td> <td>26%</td> <td>30%</td> </tr> </tbody> </table> <div class='new_pd'>Melee Kills instantly max out stacks</div>",
+      "v":"June 6 2021"
    },
    "Master of Arms":{
       "text":"<div class='new_pd'>Add description</div>"
@@ -471,7 +472,8 @@
       "text":"<div class='new_pd'>Increase Impact Damage by 50%.</div>"
    },
    "Storm and Stress":{
-      "text":"<div class='new_pd'>Add description</div>"
+      "text":"<div class='new_pd'>Each Kill with Drang grants 1 Overcharged Round,<br>which deals x more damage.</div> <style> .Storm_and_Stress td, .Storm_and_Stress th{padding-top: 1px; padding-bottom: 3px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd Storm_and_Stress' style='border-collapse:collapse;'> <tbody> <tr> <th>PvE</th> <th>PvP</th> </tr> <tr> <td>3.62x</td> <td>1.8x</td> </tr> </tbody> </table> <div class='new_pd'>Up to 99 Overcharged Rounds on Magazine.<br>Lose all Overcharged rounds on death.</div>",
+      "v":"June 6 2021"
    },
    "Stormbringer":{
       "text":"<div class='new_pd'>Add description</div>"
@@ -518,7 +520,8 @@
       "text":"<div class='new_pd'>Add description</div>"
    },
    "The Roadborn":{
-      "text":"<div class='new_pd'>Add description</div>"
+      "text":"<div class='new_pd'>Add description</div>",
+      "v":"June 6 2021"
    },
    "The Scientific Method":{
       "text":"<div class='new_pd'>Add description</div>"

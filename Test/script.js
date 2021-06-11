@@ -1,5 +1,5 @@
-let i = 0
 repeat ()
+let i = 0
 function repeat () {
     setTimeout(() => {
         document.getElementById('aim').style.cssText = `width:${250 - i / 2}px; left:${125 + i / 4}px;`
@@ -46,7 +46,6 @@ function repeat () {
 
             let aim_dot = aim_length / 100 * (aim_length - dot_t)
             ((aim_bottom - aim_top) / 2) / 100 * aim_dot
-
         }
 
 

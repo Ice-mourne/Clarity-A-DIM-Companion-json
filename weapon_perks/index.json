@@ -520,7 +520,8 @@
       "text":"<div class='new_pd'>Add description</div>"
    },
    "The Roadborn":{
-      "text":"<div class='new_pd'>Add description</div>"
+      "text":"<div class='new_pd'>Precision Kills grants Roadborn for 10 seconds.<br>Roadborn grants:</div> <style>.The_Roadborn td, .The_Roadborn th{padding-right: 7px; padding-left: 7px;} .The_Roadborn th{text-align: start;}</style> <table class='new_pd The_Roadborn' style='border-collapse:collapse;'> <tbody> <tr> <th>Precision Damage</th> <td>17%</td> </tr> <tr> <th>Reload Speed</th> <td>40</td> </tr> <tr> <th>Handling</th> <td>30</td> </tr> <tr> <th>Increased RPM</th> <td>to 100</td> </tr> <tr> <th>Falloff distance</th> <td>+1m</td> </tr> </tbody> </table>",
+      "v":"June 7 2021"
    },
    "The Scientific Method":{
       "text":"<div class='new_pd'>Add description</div>"
@@ -529,7 +530,7 @@
       "text":"<div class='new_pd'>Add description</div>"
    },
    "Threat Detector":{
-      "text":"<div class='new_pd'>If within 15 meters of X enemys:</div> <style> tr:nth-child(even) {background:#222;} td, th{padding-top: 1px; padding-bottom: 5px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse;'> <tbody> <tr> <th></th> <th>1X</th> <th>2+X</th> </tr> <tr> <td>Stability</td> <td>15</td> <td>40</td> </tr> <tr> <td>Reload</td> <td>15</td> <td>55</td> </tr> <tr> <td>Reload Time</td> <td>relo_t_0</td> <td>relo_t_1</td> </tr> <tr> <td>Time Reduced by</td> <td>relo_r_0</td> <td>relo_r_1</td> </tr> <tr> <td>Handling<br>Animation Speed</td> <td>25%</td> <td>43%</td> </tr> </tbody> </table>",
+      "text":"<div class='new_pd'>If within 15 meters of X enemies:</div> <style> tr:nth-child(even) {background:#222;} td, th{padding-top: 1px; padding-bottom: 5px; padding-right: 7px; padding-left: 7px;}</style> <table class='new_pd' style='border-collapse:collapse;'> <tbody> <tr> <th></th> <th>1X</th> <th>2+X</th> </tr> <tr> <td>Stability</td> <td>15</td> <td>40</td> </tr> <tr> <td>Reload</td> <td>15</td> <td>55</td> </tr> <tr> <td>Reload Time</td> <td>relo_t_0</td> <td>relo_t_1</td> </tr> <tr> <td>Time Reduced by</td> <td>relo_r_0</td> <td>relo_r_1</td> </tr> <tr> <td>Handling<br>Animation Speed</td> <td>25%</td> <td>43%</td> </tr> </tbody> </table>",
       "reload_stat": [15,55],
       "reload_multi":[1, 1 ]
    },

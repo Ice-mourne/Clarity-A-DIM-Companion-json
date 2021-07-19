@@ -14,7 +14,7 @@
         "3755070117": {"name": "Payday",             "value": "default"}
     },
     "Combat Bow": {
-        "default":    {},
+        "default":    false,
         "715195141":  {"name": "Precision Frame",   "value": false},
         "1470121888": {"name": "Queen's Wrath",     "value": false},
         "1573888036": {"name": "Split Electron",    "value": false},
@@ -45,7 +45,7 @@
         "Precision Frame":   {"a": 0.0000932386666666667, "b": -0.0295255666666667, "c": 4.41473333333333},
         "Rapid-Fire Frame":  {"a": 0.0000932386666666667, "b": -0.0295255666666667, "c": 4.41473333333333},
         
-        "default":    {},
+        "default":    false,
         "389268985":  {"name": "Arc Traps",                "value": "default"},
         "425960662":  {"name": "Delayed Gratification",    "value": "default"},
         "474269988":  {"name": "Lightweight Frame",        "value": "default"},
@@ -64,7 +64,7 @@
         "Aggressive Frame": {"zrm": 1.375, "zoom_tier": 14, "vpp": 0.115, "base_range": 20.8, "a": 0.000159282666666667, "b": -0.043624, "c": 4.61606666666667},
         "Precision Frame":  {"zrm": 1.375, "zoom_tier": 14, "vpp": 0.096, "base_range": 16,   "a": 0.000159282666666667, "b": -0.043624, "c": 4.61606666666667},
 
-        "default":    {},
+        "default":    {"zrm": 1.375, "zoom_tier": 14, "vpp": 0.096, "base_range": 16,   "a": 0.000159282666666667, "b": -0.043624, "c": 4.61606666666667},
         "213689231":  {"name": "Paracausal Shot",      "value": "default"},
         "507151084":  {"name": "Accomplice",           "value": "default"},
         "647617635":  {"name": "Memento Mori",         "value": "default"},
@@ -144,7 +144,7 @@
         "Precision Frame":   {"zrm": 1, "zoom_tier": 12, "vpp": 0.08, "base_range": 4,"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
         "Rapid-Fire Frame":  {"zrm": 1, "zoom_tier": 12, "vpp": 0.08, "base_range": 4,"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
         "Shot Package":      {"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
-        "default":    {},
+        "default":    {"zrm": 1, "zoom_tier": 12, "vpp": 0.08, "base_range": 4,"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
         "372430833":  {"name": "Shock Blast",         "value": "default"},
         "481338655":  {"name": "Shrapnel Launcher",   "value": "default"},
         "536517534":  {"name": "Compression Chamber", "value": "default"},
@@ -200,7 +200,7 @@
         "3468089894": {"name": "Aggressive Frame",  "value": "default"}
     },
     "Sword":{
-        "default":    {},
+        "default":    false,
         "183772609":  {"name": "Caster Frame",      "value": false},
         "263649945":  {"name": "Vortex Frame",      "value": false},
         "836583820":  {"name": "Aggressive Frame",  "value": false},
@@ -211,7 +211,7 @@
         "4172267910": {"name": "Adaptive Frame",    "value": false}
     },
     "Trace Rifle":{
-        "default":    {},
+        "default":    false,
         "459441288":  {"name": "Harmonic Laser",    "value": false},
         "571267712":  {"name": "Prismatic Inferno", "value": false},
         "1036269296": {"name": "Cold Fusion",       "value": false},

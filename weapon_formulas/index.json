@@ -45,7 +45,7 @@
         "Precision Frame":   {"a": 0.0000932386666666667, "b": -0.0295255666666667, "c": 4.41473333333333},
         "Rapid-Fire Frame":  {"a": 0.0000932386666666667, "b": -0.0295255666666667, "c": 4.41473333333333},
         
-        "default":    false,
+        "default":    {"a": 0.0000894073333333333, "b": -0.0258361333333333, "c": 3.49046666666667},
         "389268985":  {"name": "Arc Traps",                "value": "default"},
         "425960662":  {"name": "Delayed Gratification",    "value": "default"},
         "474269988":  {"name": "Lightweight Frame",        "value": "default"},

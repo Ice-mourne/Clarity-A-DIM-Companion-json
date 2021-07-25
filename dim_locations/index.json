@@ -35,15 +35,15 @@
             "link": ".ItemPopupHeader-m_title-2hFLg > a"
         },
         "sources_and_more_menu": {
-            "header_button": "Header-m_headerLinks-2hYs2",
-            "button_class": "Header-m_menuItem-3G0SM",
+            "header_button": "Header-m_headerLinks-hCOGA",
+            "button_class": "Header-m_menuItem-dhe8c",
             "dark_mode_line_1": ".app::before",
-            "dark_mode_line_2": ".Header-m_header-1eaLe, .store-header, .HeaderShadowDiv-m_cover-1R3rf",
-            "dark_mode_line_3": ".BadgeInfo-m_badge-hcIF4",
+            "dark_mode_line_2": ".Header-m_header-QeSPR, .store-header, .HeaderShadowDiv-m_cover-wPm7X",
+            "dark_mode_line_3": ".BadgeInfo-m_badge-yEIm1",
             "dark_mode_line_4": ".item-img",
-            "dark_mode_line_5": ".ItemIcon-m_borderless-1AaJE",
+            "dark_mode_line_5": ".ItemIcon-m_borderless-MdaxQ",
             "dark_mode_line_6": ".rating-icon.godroll",
-            "dark_mode_line_7": ".ItemTable-m_table-ANdPB>div"
+            "dark_mode_line_7": ".ItemTable-m_table-_Qqc0>div"
         }
     }
 }

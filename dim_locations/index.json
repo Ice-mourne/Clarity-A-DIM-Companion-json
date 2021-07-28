@@ -40,10 +40,11 @@
             "dark_mode_line_1": ".app::before",
             "dark_mode_line_2": ".Header-m_header-QeSPR, .store-header, .HeaderShadowDiv-m_cover-wPm7X",
             "dark_mode_line_3": ".BadgeInfo-m_badge-yEIm1",
-            "dark_mode_line_4": ".item-img",
-            "dark_mode_line_5": ".ItemIcon-m_borderless-MdaxQ",
-            "dark_mode_line_6": ".rating-icon.godroll",
-            "dark_mode_line_7": ".ItemTable-m_table-_Qqc0>div"
+            "dark_mode_line_4": ".BadgeInfo-m_badge-yEIm1.BadgeInfo-m_masterwork-IaYHd",
+            "dark_mode_line_5": ".item-img",
+            "dark_mode_line_6": ".ItemIcon-m_borderless-MdaxQ",
+            "dark_mode_line_7": ".rating-icon.godroll",
+            "dark_mode_line_8": ".ItemTable-m_table-_Qqc0>div"
         }
     }
 }

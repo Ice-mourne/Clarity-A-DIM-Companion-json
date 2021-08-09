@@ -60,35 +60,26 @@
         "4130495068": {"name": "Precision Frame",          "value": "default"}
     },
     "Hand Cannon":{
-        "213689231":  {"name": "Hawkmoon",         "category": "default"},
-        "507151084":  {"name": "Sturm",            "category": "120 RPM"},
-        "647617635":  {"name": "Ace of spades",    "category": "default"},
-        "1030990989": {"name": "Crimson",          "category": "default"},
-        "1294026524": {"name": "Adaptive Frame",   "category": "default"},
-        "1322370662": {"name": "Precision Frame",  "category": "default"},
-        "1791592647": {"name": "Malfeasance",      "category": "default"},
-        "1863355414": {"name": "Thorn",            "category": "default"},
-        "2144092201": {"name": "Lumina",           "category": "default"},
-        "2189829540": {"name": "Adaptive Frame",   "category": "default"},
-        "2757685314": {"name": "Aggressive Frame", "category": "120 RPM"},
-        "2770223582": {"name": "The Last Word",    "category": "default"},
-        "3174300811": {"name": "Eriana's vow",     "category": null},
-        "3468089894": {"name": "Aggressive Frame", "category": "120 RPM"},
-        "3923638944": {"name": "Double Fire",      "category": "default"},
-        "4045839491": {"name": "Sunshot",          "category": "default"},
+        "213689231":  {"name": "Hawkmoon",         "value": "default"},
+        "507151084":  {"name": "Sturm",            "value": "120 RPM"},
+        "647617635":  {"name": "Ace of spades",    "value": "default"},
+        "1030990989": {"name": "Crimson",          "value": "default"},
+        "1294026524": {"name": "Adaptive Frame",   "value": "default"},
+        "1322370662": {"name": "Precision Frame",  "value": "default"},
+        "1791592647": {"name": "Malfeasance",      "value": "default"},
+        "1863355414": {"name": "Thorn",            "value": "default"},
+        "2144092201": {"name": "Lumina",           "value": "default"},
+        "2189829540": {"name": "Adaptive Frame",   "value": "default"},
+        "2757685314": {"name": "Aggressive Frame", "value": "120 RPM"},
+        "2770223582": {"name": "The Last Word",    "value": "default"},
+        "3174300811": {"name": "Eriana's vow",     "value": null},
+        "3468089894": {"name": "Aggressive Frame", "value": "120 RPM"},
+        "3923638944": {"name": "Double Fire",      "value": "default"},
+        "4045839491": {"name": "Sunshot",          "value": "default"},
 
-        "category": {
-            "default": {
-                "range": {"zrm": 1.375, "tier": 14, "vpp": 0.096, "base": 16},
-                "reload": {"a": 0.000159282666666667, "b": -0.043624, "c": 4.61606666666667},
-                "handling": {"ready_vpp": -0.22154, "ready_number": 35.51692, "stow_vpp": -0.17034, "stow_number": 30.60252}
-            },
-            "120 RPM": {
-                "range": {"zrm": 1.375, "tier": 14, "vpp": 0.1, "base": 19},
-                "reload": {"a": 0.000159282666666667, "b": -0.043624, "c": 4.61606666666667},
-                "handling": {"ready_vpp": -0.22154, "ready_number": 35.51692, "stow_vpp": -0.17034, "stow_number": 30.60252}
-            }
-        }
+        "default": {"zrm": 1.375, "tier": 14, "vpp": 0.096, "base": 16, "a": 0.000159282666666667, "b": -0.043624, "c": 4.61606666666667},
+        "120 RPM": {"zrm": 1.375, "tier": 14, "vpp": 0.1, "base": 19, "a": 0.000159282666666667, "b": -0.043624, "c": 4.61606666666667}
+        
     },
     "Linear Fusion Rifle": {
         "default":    {"a": 0.0000726496666666667, "b": -0.0236623666666667, "c": 3.10142333333},

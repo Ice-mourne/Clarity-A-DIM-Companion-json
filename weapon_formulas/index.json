@@ -138,12 +138,8 @@
         "4185339856": {"name": "Revolution",            "value": "default"}
     },
     "Shotgun": {
-        "Aggressive Frame":  {"zrm": 1, "zoom_tier": 12, "vpp": 0.04, "base_range": 4,"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
-        "Lightweight Frame": {"zrm": 1, "zoom_tier": 12, "vpp": 0.04, "base_range": 4,"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
-        "Precision Frame":   {"zrm": 1, "zoom_tier": 12, "vpp": 0.04, "base_range": 4,"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
-        "Rapid-Fire Frame":  {"zrm": 1, "zoom_tier": 12, "vpp": 0.04, "base_range": 4,"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
         "Shot Package":      {"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
-        "default":    {"zrm": 1, "zoom_tier": 12, "vpp": 0.08, "base_range": 4,"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
+        "default":    {"zrm": 1, "zoom_tier": 12, "vpp": 0.04, "base_range": 4,"a": 0.0000790693333333333, "b": -0.0173282, "c": 1.41598333333333},
         "372430833":  {"name": "Shock Blast",         "value": "default"},
         "481338655":  {"name": "Shrapnel Launcher",   "value": "default"},
         "536517534":  {"name": "Compression Chamber", "value": "default"},

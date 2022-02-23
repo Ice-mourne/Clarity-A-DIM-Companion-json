@@ -44,7 +44,7 @@
         "Adaptive Frame":    {"a": 0.0000932386666666667, "b": -0.0295255666666667, "c": 4.41473333333333},
         "Precision Frame":   {"a": 0.0000932386666666667, "b": -0.0295255666666667, "c": 4.41473333333333},
         "Rapid-Fire Frame":  {"a": 0.0000932386666666667, "b": -0.0295255666666667, "c": 4.41473333333333},
-        
+
         "default":    {"a": 0.0000894073333333333, "b": -0.0258361333333333, "c": 3.49046666666667},
         "389268985":  {"name": "Arc Traps",                "value": "default"},
         "425960662":  {"name": "Delayed Gratification",    "value": "default"},
@@ -57,7 +57,10 @@
         "2977709078": {"name": "Excavation",               "value": "default"},
         "3063320916": {"name": "Primeval's Torment",       "value": "default"},
         "3913463509": {"name": "Insectoid Robot Grenades", "value": "default"},
-        "4130495068": {"name": "Precision Frame",          "value": "default"}
+        "4130495068": {"name": "Precision Frame",          "value": "default"},
+
+        "2733244971": {"name": "Trinary Vision",           "value": "default"}
+
     },
     "Hand Cannon":{
         "213689231":  {"name": "Hawkmoon",         "value": "default"},
@@ -213,6 +216,9 @@
     },
     "Glaive":{
         "default":    false,
-        "3024740338":  {"name": "Edge of Intent",    "value": false}
+        "3551884421":  {"name": "Edge of Concurrence", "value": false},
+        "1900919151":  {"name": "Edge of Action",      "value": false},
+        "3024740338":  {"name": "Edge of Intent",      "value": false},
+        "1316753551":  {"name": "Adaptive Glaive",     "value": false}
     }
 }
